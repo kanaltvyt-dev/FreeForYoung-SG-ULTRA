@@ -1,0 +1,10 @@
+# Singapore rolling feed
+https://freenode.biz/api/featured?format=nsubscribe
+
+# Large public aggregators; builder GeoIP-filters them to SG
+https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt
+https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt
