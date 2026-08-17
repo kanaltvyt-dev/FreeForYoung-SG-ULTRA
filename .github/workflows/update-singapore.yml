@@ -1,0 +1,86 @@
+name: FreeForYoung SG Ultra
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "11 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: freeforyoung-sg-ultra
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Xray
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          XRAY_VERSION="1.8.24"
+
+          curl -fL --retry 5 --retry-delay 2 \
+            "https://github.com/XTLS/Xray-core/releases/download/v${XRAY_VERSION}/Xray-linux-64.zip" \
+            -o /tmp/xray.zip
+
+          rm -rf "$HOME/xray"
+          mkdir -p "$HOME/xray"
+
+          unzip -q -o /tmp/xray.zip -d "$HOME/xray"
+          chmod +x "$HOME/xray/xray"
+
+          "$HOME/xray/xray" version
+
+          echo "XRAY_PATH=$HOME/xray/xray" >> "$GITHUB_ENV"
+
+      - name: Build and real-test Singapore pool
+        run: python scripts/build_sg_ultra.py
+
+      - name: Validate
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s output/singapore.txt
+          test -s output/singapore-base64.txt
+          test -s output/singapore-stats.json
+
+          echo "================================"
+          echo "Singapore VPN statistics"
+          echo "================================"
+
+          cat output/singapore-stats.json
+
+      - name: Commit
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "FreeForYoung SG Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Update SG verified pool"
+          git push
