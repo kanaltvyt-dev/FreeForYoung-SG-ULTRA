@@ -1,0 +1,19 @@
+#profile-title: FreeForYoung SG ULTRA
+#announce: SG GeoIP + CDN filtered + TCP + REAL XRAY HTTP verified
+#subscription-auto-update-enable: 1
+#subscription-ping-onopen-enabled: 1
+#subscriptions-sort-type: ping
+#ping-type: proxy
+#check-url-via-proxy: https://cp.cloudflare.com/generate_204
+#ping-result: time
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#@hex_proxy
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#🇸🇬
+trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#🇸🇬144546
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=charming-ox.rooster465.autos#EPODONIOS
+trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#EPODONIOS
+trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#🇸🇬
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#🇸🇬SG
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#EPODONIOS
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#EPODONIOS
