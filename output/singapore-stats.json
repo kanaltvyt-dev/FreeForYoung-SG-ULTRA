@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1787260040,
-  "raw_unique": 5812,
-  "resolved": 5299,
+  "generated_at_utc": 1787263339,
+  "raw_unique": 5836,
+  "resolved": 5321,
   "geoip_singapore_after_cdn_filter": 33,
-  "tcp_alive": 20,
-  "real_xray_tested": 20,
+  "tcp_alive": 21,
+  "real_xray_tested": 21,
   "real_xray_alive": 5,
-  "published": 4,
+  "published": 5,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 34,
@@ -18,34 +18,34 @@
   },
   "servers": [
     {
+      "uri": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?security=reality&encryption=none&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=4014ce9b0d82ad9d#EPODONIOS",
+      "ip": "162.128.71.118",
+      "city": "Singapore",
+      "isp": "Zenlayer Inc",
+      "org": "Zenlayer Inc",
+      "as": "AS62610 Zenlayer Inc",
+      "tcp_ping_ms": 186.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 763.7
+      },
+      "real_latency_ms": 763.7
+    },
+    {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 161.6,
+      "tcp_ping_ms": 184.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 682.3
+        "latency_ms": 766.1
       },
-      "real_latency_ms": 682.3
-    },
-    {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
-      "ip": "91.192.81.214",
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 165.8,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 687.0
-      },
-      "real_latency_ms": 687.0
+      "real_latency_ms": 766.1
     },
     {
       "uri": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@e4ur-1936et2.startora.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&sid=4014ce9b0d82ad9d&packetEncoding=xudp#EPODONIOS",
@@ -54,28 +54,43 @@
       "isp": "Zenlayer Inc",
       "org": "Zenlayer Inc",
       "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 164.2,
+      "tcp_ping_ms": 185.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 729.8
+        "latency_ms": 794.2
       },
-      "real_latency_ms": 729.8
+      "real_latency_ms": 794.2
     },
     {
-      "uri": "trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#🇭🇰",
-      "ip": "52.195.226.208",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "ip": "91.192.81.214",
       "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 103.0,
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 183.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1032.2
+        "latency_ms": 877.6
       },
-      "real_latency_ms": 1032.2
+      "real_latency_ms": 877.6
+    },
+    {
+      "uri": "trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?allowInsecure=0&security=tls&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
+      "ip": "47.129.152.191",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 181.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 926.8
+      },
+      "real_latency_ms": 926.8
     }
   ]
 }
