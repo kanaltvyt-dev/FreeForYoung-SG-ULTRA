@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1787223951,
-  "raw_unique": 5797,
-  "resolved": 5262,
-  "geoip_singapore_after_cdn_filter": 31,
-  "tcp_alive": 14,
-  "real_xray_tested": 14,
+  "generated_at_utc": 1787227343,
+  "raw_unique": 5792,
+  "resolved": 5253,
+  "geoip_singapore_after_cdn_filter": 28,
+  "tcp_alive": 12,
+  "real_xray_tested": 12,
   "real_xray_alive": 3,
   "published": 3,
   "source_stats": {
@@ -24,13 +24,13 @@
       "isp": "Zenlayer Inc",
       "org": "Zenlayer Inc",
       "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 224.1,
+      "tcp_ping_ms": 223.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1054.2
+        "latency_ms": 1189.6
       },
-      "real_latency_ms": 1054.2
+      "real_latency_ms": 1189.6
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -39,13 +39,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 224.8,
+      "tcp_ping_ms": 222.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 3497.9
+        "latency_ms": 3122.4
       },
-      "real_latency_ms": 3497.9
+      "real_latency_ms": 3122.4
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
@@ -54,13 +54,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 225.5,
+      "tcp_ping_ms": 223.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 4070.8
+        "latency_ms": 3127.4
       },
-      "real_latency_ms": 4070.8
+      "real_latency_ms": 3127.4
     }
   ]
 }
