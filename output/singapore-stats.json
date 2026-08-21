@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1787313789,
-  "raw_unique": 5807,
-  "resolved": 5279,
-  "geoip_singapore_after_cdn_filter": 30,
-  "tcp_alive": 19,
-  "real_xray_tested": 19,
+  "generated_at_utc": 1787321454,
+  "raw_unique": 5826,
+  "resolved": 5275,
+  "geoip_singapore_after_cdn_filter": 29,
+  "tcp_alive": 18,
+  "real_xray_tested": 18,
   "real_xray_alive": 3,
   "published": 3,
   "source_stats": {
@@ -12,9 +12,9 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 33,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
@@ -24,13 +24,13 @@
       "isp": "Zenlayer Inc",
       "org": "Zenlayer Inc",
       "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 170.0,
+      "tcp_ping_ms": 163.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 704.3
+        "latency_ms": 674.1
       },
-      "real_latency_ms": 704.3
+      "real_latency_ms": 674.1
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
@@ -39,13 +39,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 168.6,
+      "tcp_ping_ms": 162.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 721.0
+        "latency_ms": 1270.6
       },
-      "real_latency_ms": 721.0
+      "real_latency_ms": 1270.6
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -54,13 +54,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 169.1,
+      "tcp_ping_ms": 162.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2304.2
+        "latency_ms": 1331.7
       },
-      "real_latency_ms": 2304.2
+      "real_latency_ms": 1331.7
     }
   ]
 }
