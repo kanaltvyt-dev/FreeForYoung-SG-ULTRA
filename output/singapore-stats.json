@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": 1787396283,
-  "raw_unique": 5770,
-  "resolved": 5235,
-  "geoip_singapore_after_cdn_filter": 41,
-  "tcp_alive": 25,
-  "real_xray_tested": 25,
-  "real_xray_alive": 4,
-  "published": 4,
+  "generated_at_utc": 1787399729,
+  "raw_unique": 5767,
+  "resolved": 5229,
+  "geoip_singapore_after_cdn_filter": 36,
+  "tcp_alive": 18,
+  "real_xray_tested": 18,
+  "real_xray_alive": 7,
+  "published": 6,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 34,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?security=reality&encryption=none&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=4014ce9b0d82ad9d#EPODONIOS",
-      "ip": "162.128.71.118",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&headerType=none&path=/#EPODONIOS",
+      "ip": "91.192.81.214",
       "city": "Singapore",
-      "isp": "Zenlayer Inc",
-      "org": "Zenlayer Inc",
-      "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 197.6,
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 230.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 809.6
+        "latency_ms": 932.3
       },
-      "real_latency_ms": 809.6
+      "real_latency_ms": 932.3
     },
     {
       "uri": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&sid=4014ce9b0d82ad9d&type=tcp&headerType=none#EPODONIOS",
@@ -39,13 +39,13 @@
       "isp": "Zenlayer Inc",
       "org": "Zenlayer Inc",
       "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 196.7,
+      "tcp_ping_ms": 228.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 817.6
+        "latency_ms": 940.0
       },
-      "real_latency_ms": 817.6
+      "real_latency_ms": 940.0
     },
     {
       "uri": "vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?security=reality&encryption=none&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=43a85ad1c112e5d8#EPODONIOS",
@@ -54,28 +54,58 @@
       "isp": "Zenlayer Inc",
       "org": "Zenlayer (Singapore) PTE. LTD",
       "as": "AS62610 Zenlayer Inc",
-      "tcp_ping_ms": 200.5,
+      "tcp_ping_ms": 228.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 825.5
+        "latency_ms": 940.0
       },
-      "real_latency_ms": 825.5
+      "real_latency_ms": 940.0
     },
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "uri": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?security=reality&encryption=none&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=4014ce9b0d82ad9d#EPODONIOS",
+      "ip": "162.128.71.118",
+      "city": "Singapore",
+      "isp": "Zenlayer Inc",
+      "org": "Zenlayer Inc",
+      "as": "AS62610 Zenlayer Inc",
+      "tcp_ping_ms": 229.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 940.5
+      },
+      "real_latency_ms": 940.5
+    },
+    {
+      "uri": "vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@6ucb-1936he6.qvanta.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&sid=43a85ad1c112e5d8&allowInsecure=1#EPODONIOS",
+      "ip": "162.128.84.142",
+      "city": "Singapore",
+      "isp": "Zenlayer Inc",
+      "org": "Zenlayer (Singapore) PTE. LTD",
+      "as": "AS62610 Zenlayer Inc",
+      "tcp_ping_ms": 229.4,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 962.3
+      },
+      "real_latency_ms": 962.3
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 197.1,
+      "tcp_ping_ms": 227.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1307.0
+        "latency_ms": 969.9
       },
-      "real_latency_ms": 1307.0
+      "real_latency_ms": 969.9
     }
   ]
 }
