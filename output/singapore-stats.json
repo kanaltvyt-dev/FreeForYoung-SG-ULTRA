@@ -1,37 +1,22 @@
 {
-  "generated_at_utc": 1787432316,
-  "raw_unique": 5693,
-  "resolved": 5161,
-  "geoip_singapore_after_cdn_filter": 35,
-  "tcp_alive": 25,
-  "real_xray_tested": 25,
-  "real_xray_alive": 4,
-  "published": 4,
+  "generated_at_utc": 1787435790,
+  "raw_unique": 5716,
+  "resolved": 5191,
+  "geoip_singapore_after_cdn_filter": 31,
+  "tcp_alive": 21,
+  "real_xray_tested": 21,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 34,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 7,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#EPODONIOS",
-      "ip": "163.128.98.102",
-      "city": "Singapore",
-      "isp": "Cyberjet PTE LTD",
-      "org": "Cyberjet PTE LTD",
-      "as": "AS154562 CYBERJET PTE LTD",
-      "tcp_ping_ms": 381.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1867.5
-      },
-      "real_latency_ms": 1867.5
-    },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
@@ -39,43 +24,28 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 169.8,
+      "tcp_ping_ms": 168.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2044.3
+        "latency_ms": 674.4
       },
-      "real_latency_ms": 2044.3
+      "real_latency_ms": 674.4
     },
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS",
-      "ip": "91.192.81.214",
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 171.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 2064.9
-      },
-      "real_latency_ms": 2064.9
-    },
-    {
-      "uri": "vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#🇸🇬SG-🚀@VPNine1",
+      "uri": "vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#EPODONIOS",
       "ip": "163.128.98.102",
       "city": "Singapore",
       "isp": "Cyberjet PTE LTD",
       "org": "Cyberjet PTE LTD",
       "as": "AS154562 CYBERJET PTE LTD",
-      "tcp_ping_ms": 382.8,
+      "tcp_ping_ms": 208.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2132.3
+        "latency_ms": 1321.3
       },
-      "real_latency_ms": 2132.3
+      "real_latency_ms": 1321.3
     }
   ]
 }
