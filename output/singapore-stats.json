@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1787435790,
-  "raw_unique": 5716,
-  "resolved": 5191,
-  "geoip_singapore_after_cdn_filter": 31,
-  "tcp_alive": 21,
-  "real_xray_tested": 21,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1787439406,
+  "raw_unique": 5723,
+  "resolved": 5202,
+  "geoip_singapore_after_cdn_filter": 29,
+  "tcp_alive": 20,
+  "real_xray_tested": 20,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 34,
@@ -24,28 +24,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 168.3,
+      "tcp_ping_ms": 197.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 674.4
+        "latency_ms": 805.1
       },
-      "real_latency_ms": 674.4
-    },
-    {
-      "uri": "vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&sid=09024903c3dcb6df&allowInsecure=1#EPODONIOS",
-      "ip": "163.128.98.102",
-      "city": "Singapore",
-      "isp": "Cyberjet PTE LTD",
-      "org": "Cyberjet PTE LTD",
-      "as": "AS154562 CYBERJET PTE LTD",
-      "tcp_ping_ms": 208.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1321.3
-      },
-      "real_latency_ms": 1321.3
+      "real_latency_ms": 805.1
     }
   ]
 }
