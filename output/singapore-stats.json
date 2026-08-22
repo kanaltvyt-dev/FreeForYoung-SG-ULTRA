@@ -1,22 +1,37 @@
 {
-  "generated_at_utc": 1787439406,
-  "raw_unique": 5723,
-  "resolved": 5202,
-  "geoip_singapore_after_cdn_filter": 29,
-  "tcp_alive": 20,
-  "real_xray_tested": 20,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1787442799,
+  "raw_unique": 5721,
+  "resolved": 5197,
+  "geoip_singapore_after_cdn_filter": 32,
+  "tcp_alive": 24,
+  "real_xray_tested": 24,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 34,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
+    {
+      "uri": "vless://6aeb24c8-efc1-4a8a-8b70-f4373c57cdc2@163.128.99.49:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=bOl3cE95DyTP45SarBNVL9VSwvAQETENlm0iMNaxLyo&sid=93a993bbc8b86684&allowInsecure=1#EPODONIOS",
+      "ip": "163.128.99.49",
+      "city": "Singapore",
+      "isp": "Cyberjet PTE LTD",
+      "org": "Cyberjet PTE LTD",
+      "as": "AS154562 CYBERJET PTE LTD",
+      "tcp_ping_ms": 202.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 712.8
+      },
+      "real_latency_ms": 712.8
+    },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
@@ -24,13 +39,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 197.0,
+      "tcp_ping_ms": 173.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 805.1
+        "latency_ms": 726.6
       },
-      "real_latency_ms": 805.1
+      "real_latency_ms": 726.6
     }
   ]
 }
