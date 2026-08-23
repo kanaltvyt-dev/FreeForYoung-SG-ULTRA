@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": 1787497197,
-  "raw_unique": 5757,
-  "resolved": 5200,
-  "geoip_singapore_after_cdn_filter": 40,
+  "generated_at_utc": 1787500543,
+  "raw_unique": 5756,
+  "resolved": 5207,
+  "geoip_singapore_after_cdn_filter": 39,
   "tcp_alive": 21,
   "real_xray_tested": 21,
-  "real_xray_alive": 4,
+  "real_xray_alive": 5,
   "published": 4,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
@@ -18,34 +18,34 @@
   },
   "servers": [
     {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "ip": "91.192.81.214",
+      "city": "Singapore",
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 230.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 914.4
+      },
+      "real_latency_ms": 914.4
+    },
+    {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 195.9,
+      "tcp_ping_ms": 224.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 815.5
+        "latency_ms": 936.0
       },
-      "real_latency_ms": 815.5
-    },
-    {
-      "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡",
-      "ip": "66.42.62.84",
-      "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 197.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 870.5
-      },
-      "real_latency_ms": 870.5
+      "real_latency_ms": 936.0
     },
     {
       "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS",
@@ -54,28 +54,28 @@
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 196.3,
+      "tcp_ping_ms": 229.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 880.7
+        "latency_ms": 1523.9
       },
-      "real_latency_ms": 880.7
+      "real_latency_ms": 1523.9
     },
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
-      "ip": "91.192.81.214",
+      "uri": "vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡",
+      "ip": "66.42.62.84",
       "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 200.5,
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 231.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2825.7
+        "latency_ms": 2539.2
       },
-      "real_latency_ms": 2825.7
+      "real_latency_ms": 2539.2
     }
   ]
 }
