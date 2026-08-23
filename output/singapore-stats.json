@@ -1,37 +1,22 @@
 {
-  "generated_at_utc": 1787456037,
-  "raw_unique": 5755,
-  "resolved": 5192,
-  "geoip_singapore_after_cdn_filter": 47,
-  "tcp_alive": 35,
-  "real_xray_tested": 35,
-  "real_xray_alive": 10,
-  "published": 7,
+  "generated_at_utc": 1787464214,
+  "raw_unique": 5736,
+  "resolved": 5162,
+  "geoip_singapore_after_cdn_filter": 52,
+  "tcp_alive": 40,
+  "real_xray_tested": 40,
+  "real_xray_alive": 13,
+  "published": 9,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 32,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
   "servers": [
-    {
-      "uri": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#🇸🇬",
-      "ip": "178.128.112.70",
-      "city": "Singapore",
-      "isp": "DigitalOcean, LLC",
-      "org": "Digitalocean",
-      "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 183.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 750.2
-      },
-      "real_latency_ms": 750.2
-    },
     {
       "uri": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#EPODONIOS",
       "ip": "178.128.112.70",
@@ -39,13 +24,28 @@
       "isp": "DigitalOcean, LLC",
       "org": "Digitalocean",
       "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 183.2,
+      "tcp_ping_ms": 206.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 752.2
+        "latency_ms": 847.0
       },
-      "real_latency_ms": 752.2
+      "real_latency_ms": 847.0
+    },
+    {
+      "uri": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
+      "ip": "178.128.112.70",
+      "city": "Singapore",
+      "isp": "DigitalOcean, LLC",
+      "org": "Digitalocean",
+      "as": "AS14061 DigitalOcean, LLC",
+      "tcp_ping_ms": 208.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 850.1
+      },
+      "real_latency_ms": 850.1
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -54,43 +54,28 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 183.5,
+      "tcp_ping_ms": 208.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 757.8
+        "latency_ms": 854.9
       },
-      "real_latency_ms": 757.8
+      "real_latency_ms": 854.9
     },
     {
-      "uri": "vless://6aeb24c8-efc1-4a8a-8b70-f4373c57cdc2@163.128.99.49:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=bOl3cE95DyTP45SarBNVL9VSwvAQETENlm0iMNaxLyo&sid=93a993bbc8b86684&allowInsecure=1#🇸🇬",
-      "ip": "163.128.99.49",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "91.192.81.214",
       "city": "Singapore",
-      "isp": "Cyberjet PTE LTD",
-      "org": "Cyberjet PTE LTD",
-      "as": "AS154562 CYBERJET PTE LTD",
-      "tcp_ping_ms": 184.1,
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 207.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 757.8
+        "latency_ms": 859.1
       },
-      "real_latency_ms": 757.8
-    },
-    {
-      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#EPODONIOS",
-      "ip": "3.0.111.82",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 185.2,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 782.0
-      },
-      "real_latency_ms": 782.0
+      "real_latency_ms": 859.1
     },
     {
       "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#🔥Join+Telegram:@Farah_VPN🟣",
@@ -99,28 +84,73 @@
       "isp": "DigitalOcean, LLC",
       "org": "Digitalocean",
       "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 182.5,
+      "tcp_ping_ms": 207.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2514.4
+        "latency_ms": 1102.7
       },
-      "real_latency_ms": 2514.4
+      "real_latency_ms": 1102.7
     },
     {
-      "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F",
+      "uri": "vless://f3ed1945-dc1e-478a-b067-12b71badbea9@163.128.99.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&allowInsecure=1&fp=chrome&security=reality&pbk=ZMYQqRPgpITMElFSEMesSocBj7jvhhw3JGGzWEfyrBk&sid=693f679d3294f967&packetEncoding=xudp#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "163.128.99.73",
+      "city": "Singapore",
+      "isp": "Cyberjet PTE LTD",
+      "org": "Cyberjet PTE LTD",
+      "as": "AS154562 CYBERJET PTE LTD",
+      "tcp_ping_ms": 609.1,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1209.2
+      },
+      "real_latency_ms": 1209.2
+    },
+    {
+      "uri": "vless://edd5f4a0-19dd-4017-8d67-03482fd6472a@54.254.145.25:6768?encryption=none&security=tls&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&path=%2F%40Marisa_kristi#a_2180",
+      "ip": "54.254.145.25",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 209.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1254.0
+      },
+      "real_latency_ms": 1254.0
+    },
+    {
+      "uri": "vless://edd5f4a0-19dd-4017-8d67-03482fd6472a@54.254.145.25:6768?encryption=none&security=tls&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&path=%2F%40Marisa_kristi#a_2179",
+      "ip": "54.254.145.25",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 208.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1270.8
+      },
+      "real_latency_ms": 1270.8
+    },
+    {
+      "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#EPODONIOS",
       "ip": "178.128.52.52",
       "city": "Singapore",
       "isp": "DigitalOcean, LLC",
       "org": "Digitalocean",
       "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 182.6,
+      "tcp_ping_ms": 207.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2514.9
+        "latency_ms": 1512.2
       },
-      "real_latency_ms": 2514.9
+      "real_latency_ms": 1512.2
     }
   ]
 }
