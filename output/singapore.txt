@@ -6,8 +6,9 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#EPODONIOS
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS
-vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡
+vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#🔥Join+Telegram:@Farah_VPN🟣
+vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&host=tesla.com&path=%2F#a_15
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#EPODONIOS
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&path=%2F%2B#a_14
