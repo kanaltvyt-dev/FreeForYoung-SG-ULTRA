@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1787668297,
-  "raw_unique": 5685,
-  "resolved": 5196,
-  "geoip_singapore_after_cdn_filter": 43,
-  "tcp_alive": 32,
-  "real_xray_tested": 32,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1787677717,
+  "raw_unique": 5684,
+  "resolved": 5190,
+  "geoip_singapore_after_cdn_filter": 52,
+  "tcp_alive": 41,
+  "real_xray_tested": 41,
+  "real_xray_alive": 7,
+  "published": 4,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
@@ -18,19 +18,49 @@
   },
   "servers": [
     {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 231.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 974.6
+      },
+      "real_latency_ms": 974.6
+    },
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#کانال",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Corporation",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 235.7,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 977.0
+      },
+      "real_latency_ms": 977.0
+    },
+    {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 195.3,
+      "tcp_ping_ms": 236.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 807.6
+        "latency_ms": 2622.8
       },
-      "real_latency_ms": 807.6
+      "real_latency_ms": 2622.8
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -39,13 +69,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 195.2,
+      "tcp_ping_ms": 232.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 813.1
+        "latency_ms": 3773.1
       },
-      "real_latency_ms": 813.1
+      "real_latency_ms": 3773.1
     }
   ]
 }
