@@ -1,52 +1,22 @@
 {
-  "generated_at_utc": 1787659550,
-  "raw_unique": 5717,
-  "resolved": 5193,
-  "geoip_singapore_after_cdn_filter": 91,
-  "tcp_alive": 75,
-  "real_xray_tested": 75,
-  "real_xray_alive": 8,
-  "published": 7,
+  "generated_at_utc": 1787668297,
+  "raw_unique": 5685,
+  "resolved": 5196,
+  "geoip_singapore_after_cdn_filter": 43,
+  "tcp_alive": 32,
+  "real_xray_tested": 32,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "178.128.112.70",
-      "city": "Singapore",
-      "isp": "DigitalOcean, LLC",
-      "org": "Digitalocean",
-      "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 223.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 921.7
-      },
-      "real_latency_ms": 921.7
-    },
-    {
-      "uri": "vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#Generalconfiig",
-      "ip": "178.128.112.70",
-      "city": "Singapore",
-      "isp": "DigitalOcean, LLC",
-      "org": "Digitalocean",
-      "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 221.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 921.8
-      },
-      "real_latency_ms": 921.8
-    },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
@@ -54,43 +24,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 225.6,
+      "tcp_ping_ms": 195.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 932.6
+        "latency_ms": 807.6
       },
-      "real_latency_ms": 932.6
-    },
-    {
-      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#EPODONIOS",
-      "ip": "3.0.111.82",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 225.7,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1097.2
-      },
-      "real_latency_ms": 1097.2
-    },
-    {
-      "uri": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&host=tesla.com&path=%2F#a_15",
-      "ip": "166.108.235.162",
-      "city": "Singapore",
-      "isp": "Huawei International Pte. LTD",
-      "org": "",
-      "as": "AS136907 HUAWEI CLOUDS",
-      "tcp_ping_ms": 225.2,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1346.5
-      },
-      "real_latency_ms": 1346.5
+      "real_latency_ms": 807.6
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -99,28 +39,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 227.9,
+      "tcp_ping_ms": 195.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 3435.0
+        "latency_ms": 813.1
       },
-      "real_latency_ms": 3435.0
-    },
-    {
-      "uri": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&path=%2F%2B#a_14",
-      "ip": "166.108.235.162",
-      "city": "Singapore",
-      "isp": "Huawei International Pte. LTD",
-      "org": "",
-      "as": "AS136907 HUAWEI CLOUDS",
-      "tcp_ping_ms": 226.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 7053.7
-      },
-      "real_latency_ms": 7053.7
+      "real_latency_ms": 813.1
     }
   ]
 }
