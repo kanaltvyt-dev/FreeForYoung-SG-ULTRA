@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1787699118,
-  "raw_unique": 5687,
-  "resolved": 5168,
-  "geoip_singapore_after_cdn_filter": 48,
-  "tcp_alive": 37,
-  "real_xray_tested": 37,
-  "real_xray_alive": 3,
-  "published": 2,
+  "generated_at_utc": 1787702330,
+  "raw_unique": 5683,
+  "resolved": 5158,
+  "geoip_singapore_after_cdn_filter": 46,
+  "tcp_alive": 35,
+  "real_xray_tested": 35,
+  "real_xray_alive": 4,
+  "published": 3,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
@@ -18,19 +18,19 @@
   },
   "servers": [
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
-      "ip": "91.192.81.214",
+      "uri": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS",
+      "ip": "134.122.154.210",
       "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 223.2,
+      "isp": "CTG Server Limited",
+      "org": "Rackip Consultancy Pte. LTD",
+      "as": "AS152194 CTG Server Limited",
+      "tcp_ping_ms": 233.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 917.5
+        "latency_ms": 765.2
       },
-      "real_latency_ms": 917.5
+      "real_latency_ms": 765.2
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS",
@@ -39,13 +39,28 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 223.6,
+      "tcp_ping_ms": 195.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 918.0
+        "latency_ms": 809.6
       },
-      "real_latency_ms": 918.0
+      "real_latency_ms": 809.6
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "ip": "91.192.81.214",
+      "city": "Singapore",
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 195.9,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 811.5
+      },
+      "real_latency_ms": 811.5
     }
   ]
 }
