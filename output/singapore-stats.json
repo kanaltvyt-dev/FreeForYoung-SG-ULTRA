@@ -1,51 +1,36 @@
 {
-  "generated_at_utc": 1787702330,
-  "raw_unique": 5683,
-  "resolved": 5158,
-  "geoip_singapore_after_cdn_filter": 46,
+  "generated_at_utc": 1787715582,
+  "raw_unique": 5639,
+  "resolved": 5103,
+  "geoip_singapore_after_cdn_filter": 47,
   "tcp_alive": 35,
   "real_xray_tested": 35,
-  "real_xray_alive": 4,
-  "published": 3,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 39,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 97
   },
   "servers": [
     {
-      "uri": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS",
-      "ip": "134.122.154.210",
-      "city": "Singapore",
-      "isp": "CTG Server Limited",
-      "org": "Rackip Consultancy Pte. LTD",
-      "as": "AS152194 CTG Server Limited",
-      "tcp_ping_ms": 233.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 765.2
-      },
-      "real_latency_ms": 765.2
-    },
-    {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 195.9,
+      "tcp_ping_ms": 226.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 809.6
+        "latency_ms": 941.5
       },
-      "real_latency_ms": 809.6
+      "real_latency_ms": 941.5
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -54,13 +39,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 195.9,
+      "tcp_ping_ms": 233.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 811.5
+        "latency_ms": 944.1
       },
-      "real_latency_ms": 811.5
+      "real_latency_ms": 944.1
     }
   ]
 }
