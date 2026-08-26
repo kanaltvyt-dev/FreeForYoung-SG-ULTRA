@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1787732837,
-  "raw_unique": 5673,
-  "resolved": 5145,
-  "geoip_singapore_after_cdn_filter": 41,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 3,
-  "published": 3,
+  "generated_at_utc": 1787741949,
+  "raw_unique": 5702,
+  "resolved": 5118,
+  "geoip_singapore_after_cdn_filter": 61,
+  "tcp_alive": 38,
+  "real_xray_tested": 38,
+  "real_xray_alive": 7,
+  "published": 4,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": "ERROR: The read operation timed out",
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 39,
@@ -18,7 +18,52 @@
   },
   "servers": [
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
+      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#EPODONIOS",
+      "ip": "3.0.111.82",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 189.4,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 754.1
+      },
+      "real_latency_ms": 754.1
+    },
+    {
+      "uri": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS",
+      "ip": "134.122.154.210",
+      "city": "Singapore",
+      "isp": "CTG Server Limited",
+      "org": "Rackip Consultancy Pte. LTD",
+      "as": "AS152194 CTG Server Limited",
+      "tcp_ping_ms": 240.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1012.7
+      },
+      "real_latency_ms": 1012.7
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "ip": "91.192.81.214",
+      "city": "Singapore",
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 162.9,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 2131.8
+      },
+      "real_latency_ms": 2131.8
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
@@ -28,39 +73,9 @@
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 679.1
+        "latency_ms": 2132.7
       },
-      "real_latency_ms": 679.1
-    },
-    {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
-      "ip": "91.192.81.214",
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 163.2,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 680.9
-      },
-      "real_latency_ms": 680.9
-    },
-    {
-      "uri": "vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS",
-      "ip": "134.122.154.210",
-      "city": "Singapore",
-      "isp": "CTG Server Limited",
-      "org": "Rackip Consultancy Pte. LTD",
-      "as": "AS152194 CTG Server Limited",
-      "tcp_ping_ms": 216.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 828.2
-      },
-      "real_latency_ms": 828.2
+      "real_latency_ms": 2132.7
     }
   ]
 }
