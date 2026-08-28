@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": 1787954162,
+  "generated_at_utc": 1787955371,
   "raw_unique": 5737,
   "resolved": 5236,
   "geoip_singapore_after_cdn_filter": 48,
@@ -24,28 +24,28 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 198.3,
+      "tcp_ping_ms": 168.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 812.7
+        "latency_ms": 699.1
       },
-      "real_latency_ms": 812.7
+      "real_latency_ms": 699.1
     },
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 197.6,
+      "tcp_ping_ms": 168.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1192.0
+        "latency_ms": 701.6
       },
-      "real_latency_ms": 1192.0
+      "real_latency_ms": 701.6
     }
   ]
 }
