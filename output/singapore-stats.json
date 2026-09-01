@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1788254681,
+  "generated_at_utc": 1788258419,
   "raw_unique": 5864,
-  "resolved": 5379,
+  "resolved": 5380,
   "geoip_singapore_after_cdn_filter": 50,
   "tcp_alive": 35,
   "real_xray_tested": 35,
@@ -24,13 +24,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 178.8,
+      "tcp_ping_ms": 224.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 720.0
+        "latency_ms": 907.7
       },
-      "real_latency_ms": 720.0
+      "real_latency_ms": 907.7
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
@@ -39,13 +39,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 177.5,
+      "tcp_ping_ms": 222.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 723.0
+        "latency_ms": 910.5
       },
-      "real_latency_ms": 723.0
+      "real_latency_ms": 910.5
     },
     {
       "uri": "vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#EPODONIOS",
@@ -54,13 +54,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 178.5,
+      "tcp_ping_ms": 230.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 727.7
+        "latency_ms": 912.5
       },
-      "real_latency_ms": 727.7
+      "real_latency_ms": 912.5
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
@@ -69,13 +69,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 178.9,
+      "tcp_ping_ms": 221.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 751.2
+        "latency_ms": 914.6
       },
-      "real_latency_ms": 751.2
+      "real_latency_ms": 914.6
     },
     {
       "uri": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#EPODONIOS",
@@ -84,13 +84,13 @@
       "isp": "DIGITALOCEAN",
       "org": "DigitalOcean, LLC",
       "as": "AS14061 DigitalOcean, LLC",
-      "tcp_ping_ms": 183.1,
+      "tcp_ping_ms": 238.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1294.2
+        "latency_ms": 1194.7
       },
-      "real_latency_ms": 1294.2
+      "real_latency_ms": 1194.7
     }
   ]
 }
