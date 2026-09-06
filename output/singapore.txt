@@ -7,8 +7,6 @@
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#•
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#🇺🇸
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?sni=telegram-leviko_v2ray&allowInsecure=1#🇸🇬SG-🚀@VPNine1
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#EPODONIOS
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?sni=telegram-leviko_v2ray&allowInsecure=1#EPODONIOS
-vless://0f4ce6d4-b4b4-41b9-b1e7-c109ad32b274@47.129.204.35:58335?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.tesla.com&path=/&pbk=5uFce3cR8rT889d0IDLpENoFf9OnFXaOoO9B8mI8cWQ&security=reality&sid=6ce3397cbd5ada&sni=www.tesla.com&type=tcp#🇸🇬163017
-vless://0f4ce6d4-b4b4-41b9-b1e7-c109ad32b274@47.129.204.35:58335?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.tesla.com&path=/&pbk=5uFce3cR8rT889d0IDLpENoFf9OnFXaOoO9B8mI8cWQ&security=reality&sid=6ce3397cbd5ada&sni=www.tesla.com&type=tcp#EPODONIOS
