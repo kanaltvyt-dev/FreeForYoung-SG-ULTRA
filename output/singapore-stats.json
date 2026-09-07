@@ -1,22 +1,37 @@
 {
-  "generated_at_utc": 1788776694,
-  "raw_unique": 5806,
-  "resolved": 5403,
-  "geoip_singapore_after_cdn_filter": 35,
-  "tcp_alive": 23,
-  "real_xray_tested": 23,
-  "real_xray_alive": 13,
-  "published": 7,
+  "generated_at_utc": 1788780227,
+  "raw_unique": 5808,
+  "resolved": 5410,
+  "geoip_singapore_after_cdn_filter": 34,
+  "tcp_alive": 15,
+  "real_xray_tested": 15,
+  "real_xray_alive": 9,
+  "published": 5,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 0,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 47,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#EPODONIOS",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 223.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 919.1
+      },
+      "real_latency_ms": 919.1
+    },
     {
       "uri": "vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#EPODONIOS",
       "ip": "47.129.185.35",
@@ -24,13 +39,13 @@
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 189.1,
+      "tcp_ping_ms": 231.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 771.8
+        "latency_ms": 927.7
       },
-      "real_latency_ms": 771.8
+      "real_latency_ms": 927.7
     },
     {
       "uri": "vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬",
@@ -39,28 +54,13 @@
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 189.0,
+      "tcp_ping_ms": 229.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 773.8
+        "latency_ms": 937.2
       },
-      "real_latency_ms": 773.8
-    },
-    {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#🇺🇸",
-      "ip": "146.235.16.130",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 181.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 785.5
-      },
-      "real_latency_ms": 785.5
+      "real_latency_ms": 937.2
     },
     {
       "uri": "vless://3b733177-14f5-49d5-91e6-4dce73c038e3@47.131.211.4:33164?security=reality&encryption=none&pbk=Faf18bd52wn8u9_ZGjBvfW4hkzcMhhfZhc1giF8R4G8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=83905567c94f6679#EPODONIOS",
@@ -69,58 +69,28 @@
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 188.6,
+      "tcp_ping_ms": 230.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 793.8
+        "latency_ms": 943.8
       },
-      "real_latency_ms": 793.8
+      "real_latency_ms": 943.8
     },
     {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#🇺🇸",
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#EPODONIOS",
       "ip": "146.235.16.130",
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 182.1,
+      "tcp_ping_ms": 223.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 798.7
+        "latency_ms": 1055.7
       },
-      "real_latency_ms": 798.7
-    },
-    {
-      "uri": "trojan://BxceQaOe@13.215.162.132:51391?allowInsecure=1&sni=t.me/ripaojiedian#🇸🇬164146",
-      "ip": "13.215.162.132",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 189.2,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 992.8
-      },
-      "real_latency_ms": 992.8
-    },
-    {
-      "uri": "trojan://BxceQaOe@13.215.162.132:51391?allowInsecure=1&sni=t.me/ripaojiedian#کانال",
-      "ip": "13.215.162.132",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 190.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1014.9
-      },
-      "real_latency_ms": 1014.9
+      "real_latency_ms": 1055.7
     }
   ]
 }
