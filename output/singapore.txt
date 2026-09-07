@@ -6,9 +6,9 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#🇺🇸
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#EPODONIOS
-vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#EPODONIOS
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#EPODONIOS
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#EPODONIOS
 vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬
+vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#EPODONIOS
+vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#EPODONIOS
 vless://3b733177-14f5-49d5-91e6-4dce73c038e3@47.131.211.4:33164?security=reality&encryption=none&pbk=Faf18bd52wn8u9_ZGjBvfW4hkzcMhhfZhc1giF8R4G8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=83905567c94f6679#EPODONIOS
