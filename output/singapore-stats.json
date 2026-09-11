@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": 1789104234,
-  "raw_unique": 5730,
+  "generated_at_utc": 1789108162,
+  "raw_unique": 5734,
   "resolved": 5253,
-  "geoip_singapore_after_cdn_filter": 55,
-  "tcp_alive": 49,
-  "real_xray_tested": 49,
-  "real_xray_alive": 4,
-  "published": 4,
+  "geoip_singapore_after_cdn_filter": 53,
+  "tcp_alive": 43,
+  "real_xray_tested": 43,
+  "real_xray_alive": 5,
+  "published": 5,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 0,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
@@ -24,13 +24,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 168.8,
+      "tcp_ping_ms": 169.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 708.2
+        "latency_ms": 702.8
       },
-      "real_latency_ms": 708.2
+      "real_latency_ms": 702.8
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#•",
@@ -39,13 +39,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 168.1,
+      "tcp_ping_ms": 168.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 715.5
+        "latency_ms": 723.2
       },
-      "real_latency_ms": 715.5
+      "real_latency_ms": 723.2
     },
     {
       "uri": "vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬",
@@ -54,13 +54,13 @@
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 179.6,
+      "tcp_ping_ms": 204.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 863.0
+        "latency_ms": 1034.7
       },
-      "real_latency_ms": 863.0
+      "real_latency_ms": 1034.7
     },
     {
       "uri": "vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#EPODONIOS",
@@ -69,13 +69,28 @@
       "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 175.3,
+      "tcp_ping_ms": 193.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 896.5
+        "latency_ms": 1143.8
       },
-      "real_latency_ms": 896.5
+      "real_latency_ms": 1143.8
+    },
+    {
+      "uri": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@142.91.102.35:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#EPODONIOS",
+      "ip": "142.91.102.35",
+      "city": "Singapore",
+      "isp": "Leaseweb Singapore Pte. Ltd.",
+      "org": "Leaseweb Singapore Pte. LTD",
+      "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
+      "tcp_ping_ms": 330.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 3338.4
+      },
+      "real_latency_ms": 3338.4
     }
   ]
 }
