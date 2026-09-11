@@ -1,37 +1,22 @@
 {
-  "generated_at_utc": 1789136703,
-  "raw_unique": 5779,
-  "resolved": 5221,
-  "geoip_singapore_after_cdn_filter": 49,
-  "tcp_alive": 38,
-  "real_xray_tested": 38,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1789140244,
+  "raw_unique": 5778,
+  "resolved": 5217,
+  "geoip_singapore_after_cdn_filter": 48,
+  "tcp_alive": 37,
+  "real_xray_tested": 37,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 0,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "vless://b5138354-066a-4e9f-93e3-5bc700eaf89f@13.229.44.152:34033?security=reality&encryption=none&pbk=R1mts7yXplVMaA15AC1U0TMnYvqiX3OPbK1_ZBan_XQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=702186e48d5646#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
-      "ip": "13.229.44.152",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 239.8,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 942.1
-      },
-      "real_latency_ms": 942.1
-    },
     {
       "uri": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@142.91.102.35:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#EPODONIOS",
       "ip": "142.91.102.35",
@@ -39,13 +24,13 @@
       "isp": "Leaseweb Singapore Pte. Ltd.",
       "org": "Leaseweb Singapore Pte. LTD",
       "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 300.9,
+      "tcp_ping_ms": 336.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1247.8
+        "latency_ms": 4044.7
       },
-      "real_latency_ms": 1247.8
+      "real_latency_ms": 4044.7
     }
   ]
 }
