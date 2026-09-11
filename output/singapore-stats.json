@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1789140244,
-  "raw_unique": 5778,
-  "resolved": 5217,
+  "generated_at_utc": 1789143913,
+  "raw_unique": 5780,
+  "resolved": 5219,
   "geoip_singapore_after_cdn_filter": 48,
   "tcp_alive": 37,
   "real_xray_tested": 37,
@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
@@ -24,13 +24,13 @@
       "isp": "Leaseweb Singapore Pte. Ltd.",
       "org": "Leaseweb Singapore Pte. LTD",
       "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 336.6,
+      "tcp_ping_ms": 326.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 4044.7
+        "latency_ms": 8164.4
       },
-      "real_latency_ms": 4044.7
+      "real_latency_ms": 8164.4
     }
   ]
 }
