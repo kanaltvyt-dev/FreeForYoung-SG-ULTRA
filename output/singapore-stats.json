@@ -1,66 +1,51 @@
 {
-  "generated_at_utc": 1789154539,
-  "raw_unique": 5740,
-  "resolved": 5233,
-  "geoip_singapore_after_cdn_filter": 49,
-  "tcp_alive": 38,
-  "real_xray_tested": 38,
-  "real_xray_alive": 3,
-  "published": 3,
+  "generated_at_utc": 1789158239,
+  "raw_unique": 5772,
+  "resolved": 5259,
+  "geoip_singapore_after_cdn_filter": 44,
+  "tcp_alive": 33,
+  "real_xray_tested": 33,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "140.245.61.210",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 228.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1370.6
-      },
-      "real_latency_ms": 1370.6
-    },
-    {
-      "uri": "vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@142.91.102.35:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#EPODONIOS",
-      "ip": "142.91.102.35",
-      "city": "Singapore",
-      "isp": "Leaseweb Singapore Pte. Ltd.",
-      "org": "Leaseweb Singapore Pte. LTD",
-      "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 244.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1546.0
-      },
-      "real_latency_ms": 1546.0
-    },
-    {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
-      "ip": "140.245.61.210",
+      "ip": "213.35.99.95",
       "city": "Singapore",
       "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-2)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 225.7,
+      "tcp_ping_ms": 209.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1983.8
+        "latency_ms": 1594.2
       },
-      "real_latency_ms": 1983.8
+      "real_latency_ms": 1594.2
+    },
+    {
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
+      "ip": "213.35.99.95",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 208.7,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1595.8
+      },
+      "real_latency_ms": 1595.8
     }
   ]
 }
