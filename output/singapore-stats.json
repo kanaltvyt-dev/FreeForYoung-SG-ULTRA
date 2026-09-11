@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1789147400,
+  "generated_at_utc": 1789151224,
   "raw_unique": 5811,
-  "resolved": 5234,
+  "resolved": 5236,
   "geoip_singapore_after_cdn_filter": 48,
   "tcp_alive": 37,
   "real_xray_tested": 37,
@@ -24,13 +24,13 @@
       "isp": "Leaseweb Singapore Pte. Ltd.",
       "org": "Leaseweb Singapore Pte. LTD",
       "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 319.2,
+      "tcp_ping_ms": 294.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1392.9
+        "latency_ms": 1220.9
       },
-      "real_latency_ms": 1392.9
+      "real_latency_ms": 1220.9
     }
   ]
 }
