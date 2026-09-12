@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": 1789230193,
-  "raw_unique": 5777,
-  "resolved": 5306,
+  "generated_at_utc": 1789233641,
+  "raw_unique": 5808,
+  "resolved": 5310,
   "geoip_singapore_after_cdn_filter": 44,
-  "tcp_alive": 28,
-  "real_xray_tested": 28,
-  "real_xray_alive": 2,
-  "published": 2,
+  "tcp_alive": 27,
+  "real_xray_tested": 27,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
-    "https://freenode.biz/api/featured?format=nsubscribe": 0,
+    "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
@@ -19,33 +19,18 @@
   "servers": [
     {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "54.169.175.146",
+      "ip": "13.214.208.124",
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 182.1,
+      "tcp_ping_ms": 252.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1081.2
+        "latency_ms": 3616.3
       },
-      "real_latency_ms": 1081.2
-    },
-    {
-      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
-      "ip": "54.169.175.146",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 187.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1144.5
-      },
-      "real_latency_ms": 1144.5
+      "real_latency_ms": 3616.3
     }
   ]
 }
