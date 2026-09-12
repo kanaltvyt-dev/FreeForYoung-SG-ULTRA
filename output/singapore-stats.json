@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1789190552,
-  "raw_unique": 5814,
-  "resolved": 5258,
+  "generated_at_utc": 1789194461,
+  "raw_unique": 5815,
+  "resolved": 5259,
   "geoip_singapore_after_cdn_filter": 38,
   "tcp_alive": 27,
   "real_xray_tested": 27,
@@ -12,40 +12,40 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
-      "ip": "161.118.233.173",
+      "ip": "18.142.246.104",
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-2)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 196.6,
+      "tcp_ping_ms": 239.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1590.9
+        "latency_ms": 1428.2
       },
-      "real_latency_ms": 1590.9
+      "real_latency_ms": 1428.2
     },
     {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "161.118.233.173",
+      "ip": "18.142.246.104",
       "city": "Singapore",
-      "isp": "Amazon Technologies Inc",
+      "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 200.8,
+      "tcp_ping_ms": 240.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1601.3
+        "latency_ms": 1506.4
       },
-      "real_latency_ms": 1601.3
+      "real_latency_ms": 1506.4
     }
   ]
 }
