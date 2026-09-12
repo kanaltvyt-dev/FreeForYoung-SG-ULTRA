@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1789197710,
+  "generated_at_utc": 1789201416,
   "raw_unique": 5816,
   "resolved": 5260,
   "geoip_singapore_after_cdn_filter": 38,
   "tcp_alive": 27,
   "real_xray_tested": 27,
-  "real_xray_alive": 1,
-  "published": 1,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
@@ -24,13 +24,28 @@
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 184.2,
+      "tcp_ping_ms": 226.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2399.3
+        "latency_ms": 4775.6
       },
-      "real_latency_ms": 2399.3
+      "real_latency_ms": 4775.6
+    },
+    {
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
+      "ip": "18.142.246.104",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 229.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 5092.3
+      },
+      "real_latency_ms": 5092.3
     }
   ]
 }
