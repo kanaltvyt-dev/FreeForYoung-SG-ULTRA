@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1789172996,
-  "raw_unique": 5818,
-  "resolved": 5196,
+  "generated_at_utc": 1789176069,
+  "raw_unique": 5813,
+  "resolved": 5191,
   "geoip_singapore_after_cdn_filter": 48,
   "tcp_alive": 39,
   "real_xray_tested": 39,
@@ -12,26 +12,11 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 15,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "91.192.81.214",
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 183.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 758.5
-      },
-      "real_latency_ms": 758.5
-    },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#@V2ray_Alpha،",
       "ip": "91.192.81.214",
@@ -39,43 +24,58 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 182.9,
+      "tcp_ping_ms": 196.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 760.2
+        "latency_ms": 809.0
       },
-      "real_latency_ms": 760.2
+      "real_latency_ms": 809.0
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "91.192.81.214",
+      "city": "Singapore",
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 196.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 810.4
+      },
+      "real_latency_ms": 810.4
     },
     {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "140.245.47.149",
+      "ip": "129.150.54.152",
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-2)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 185.5,
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 199.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1193.7
+        "latency_ms": 1305.9
       },
-      "real_latency_ms": 1193.7
+      "real_latency_ms": 1305.9
     },
     {
       "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
-      "ip": "140.245.47.149",
+      "ip": "129.150.54.152",
       "city": "Singapore",
       "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-2)",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 184.0,
+      "tcp_ping_ms": 198.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1813.5
+        "latency_ms": 1851.9
       },
-      "real_latency_ms": 1813.5
+      "real_latency_ms": 1851.9
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#🇸🇬",
@@ -84,13 +84,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 191.9,
+      "tcp_ping_ms": 196.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 5473.9
+        "latency_ms": 2090.0
       },
-      "real_latency_ms": 5473.9
+      "real_latency_ms": 2090.0
     }
   ]
 }
