@@ -1,36 +1,51 @@
 {
-  "generated_at_utc": 1789233641,
-  "raw_unique": 5808,
-  "resolved": 5310,
+  "generated_at_utc": 1789237463,
+  "raw_unique": 5806,
+  "resolved": 5309,
   "geoip_singapore_after_cdn_filter": 44,
   "tcp_alive": 27,
   "real_xray_tested": 27,
-  "real_xray_alive": 1,
-  "published": 1,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "13.214.208.124",
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
+      "ip": "47.129.238.32",
       "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
+      "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 252.0,
+      "tcp_ping_ms": 262.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 3616.3
+        "latency_ms": 1306.6
       },
-      "real_latency_ms": 3616.3
+      "real_latency_ms": 1306.6
+    },
+    {
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
+      "ip": "47.129.238.32",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 261.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1355.3
+      },
+      "real_latency_ms": 1355.3
     }
   ]
 }
