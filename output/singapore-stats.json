@@ -1,20 +1,51 @@
 {
-  "generated_at_utc": 1789309340,
-  "raw_unique": 5814,
-  "resolved": 5267,
-  "geoip_singapore_after_cdn_filter": 43,
-  "tcp_alive": 31,
-  "real_xray_tested": 31,
-  "real_xray_alive": 0,
-  "published": 0,
+  "generated_at_utc": 1789312961,
+  "raw_unique": 5827,
+  "resolved": 5277,
+  "geoip_singapore_after_cdn_filter": 40,
+  "tcp_alive": 30,
+  "real_xray_tested": 30,
+  "real_xray_alive": 3,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
-  "servers": []
+  "servers": [
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🇸🇬SG-🚀@VPNine1",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 167.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 722.4
+      },
+      "real_latency_ms": 722.4
+    },
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🇸🇬170563",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 168.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 735.7
+      },
+      "real_latency_ms": 735.7
+    }
+  ]
 }
