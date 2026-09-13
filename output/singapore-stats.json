@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": 1789259468,
-  "raw_unique": 5799,
-  "resolved": 5200,
-  "geoip_singapore_after_cdn_filter": 53,
+  "generated_at_utc": 1789262481,
+  "raw_unique": 5819,
+  "resolved": 5226,
+  "geoip_singapore_after_cdn_filter": 55,
   "tcp_alive": 44,
   "real_xray_tested": 44,
   "real_xray_alive": 14,
@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
@@ -24,13 +24,28 @@
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 181.2,
+      "tcp_ping_ms": 222.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 748.4
+        "latency_ms": 904.8
       },
-      "real_latency_ms": 748.4
+      "real_latency_ms": 904.8
+    },
+    {
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "91.192.81.214",
+      "city": "Singapore",
+      "isp": "Melbikomas UAB",
+      "org": "Melbikomas UAB",
+      "as": "AS8849 Melbikomas UAB",
+      "tcp_ping_ms": 223.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 908.6
+      },
+      "real_latency_ms": 908.6
     },
     {
       "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#🔥Join+Telegram:@Farah_VPN🟣",
@@ -39,28 +54,13 @@
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 182.2,
+      "tcp_ping_ms": 222.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 750.9
+        "latency_ms": 909.2
       },
-      "real_latency_ms": 750.9
-    },
-    {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
-      "ip": "91.192.81.214",
-      "city": "Singapore",
-      "isp": "Melbikomas UAB",
-      "org": "Melbikomas UAB",
-      "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 182.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 751.6
-      },
-      "real_latency_ms": 751.6
+      "real_latency_ms": 909.2
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748771",
@@ -69,13 +69,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 182.2,
+      "tcp_ping_ms": 218.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 770.9
+        "latency_ms": 914.6
       },
-      "real_latency_ms": 770.9
+      "real_latency_ms": 914.6
     },
     {
       "uri": "vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#SG",
@@ -84,43 +84,43 @@
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo GmbH",
       "as": "AS141995 Contabo Asia Private Limited",
-      "tcp_ping_ms": 207.7,
+      "tcp_ping_ms": 230.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 837.7
+        "latency_ms": 949.8
       },
-      "real_latency_ms": 837.7
+      "real_latency_ms": 949.8
     },
     {
-      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
-      "ip": "18.142.253.33",
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
+      "ip": "13.212.253.206",
       "city": "Singapore",
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 190.8,
+      "tcp_ping_ms": 244.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1018.5
+        "latency_ms": 1277.3
       },
-      "real_latency_ms": 1018.5
+      "real_latency_ms": 1277.3
     },
     {
-      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎",
-      "ip": "18.142.253.33",
+      "uri": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#EPODONIOS",
+      "ip": "13.212.253.206",
       "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
+      "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 189.7,
+      "tcp_ping_ms": 244.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1203.0
+        "latency_ms": 1285.7
       },
-      "real_latency_ms": 1203.0
+      "real_latency_ms": 1285.7
     }
   ]
 }
