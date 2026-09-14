@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1789348973,
-  "raw_unique": 5808,
-  "resolved": 5225,
-  "geoip_singapore_after_cdn_filter": 64,
-  "tcp_alive": 53,
-  "real_xray_tested": 53,
+  "generated_at_utc": 1789352687,
+  "raw_unique": 5811,
+  "resolved": 5226,
+  "geoip_singapore_after_cdn_filter": 65,
+  "tcp_alive": 54,
+  "real_xray_tested": 54,
   "real_xray_alive": 18,
   "published": 7,
   "source_stats": {
@@ -12,40 +12,40 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 15,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 16,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d1742269&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 228.6,
+      "tcp_ping_ms": 167.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 922.2
+        "latency_ms": 694.8
       },
-      "real_latency_ms": 922.2
+      "real_latency_ms": 694.8
     },
     {
-      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&host=/?TELEGRAM-TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS",
+      "uri": "vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#🇸🇬",
       "ip": "91.192.81.214",
       "city": "Singapore",
       "isp": "Melbikomas UAB",
       "org": "Melbikomas UAB",
       "as": "AS8849 Melbikomas UAB",
-      "tcp_ping_ms": 229.3,
+      "tcp_ping_ms": 171.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 924.5
+        "latency_ms": 695.9
       },
-      "real_latency_ms": 924.5
+      "real_latency_ms": 695.9
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
@@ -54,13 +54,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 231.9,
+      "tcp_ping_ms": 169.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 953.6
+        "latency_ms": 699.2
       },
-      "real_latency_ms": 953.6
+      "real_latency_ms": 699.2
     },
     {
       "uri": "vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
@@ -69,13 +69,13 @@
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo GmbH",
       "as": "AS141995 Contabo Asia Private Limited",
-      "tcp_ping_ms": 233.7,
+      "tcp_ping_ms": 166.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 954.0
+        "latency_ms": 702.1
       },
-      "real_latency_ms": 954.0
+      "real_latency_ms": 702.1
     },
     {
       "uri": "vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#SG",
@@ -84,28 +84,28 @@
       "isp": "Contabo Asia Private Limited",
       "org": "Contabo GmbH",
       "as": "AS141995 Contabo Asia Private Limited",
-      "tcp_ping_ms": 230.8,
+      "tcp_ping_ms": 166.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 961.4
+        "latency_ms": 704.3
       },
-      "real_latency_ms": 961.4
+      "real_latency_ms": 704.3
     },
     {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#SG",
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣",
       "ip": "146.235.16.130",
       "city": "Singapore",
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 229.3,
+      "tcp_ping_ms": 169.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1039.2
+        "latency_ms": 709.3
       },
-      "real_latency_ms": 1039.2
+      "real_latency_ms": 709.3
     },
     {
       "uri": "vless://7b102311-43fd-4e8f-877e-8090623c101d@8.219.155.125:443?&security=tls&fp=chrome&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=/#🇯🇵",
@@ -114,13 +114,13 @@
       "isp": "Alibaba (US) Technology Co., Ltd.",
       "org": "Alibaba.com Singapore E-Commerce Private Limited",
       "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-      "tcp_ping_ms": 233.0,
+      "tcp_ping_ms": 169.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1587.0
+        "latency_ms": 1288.0
       },
-      "real_latency_ms": 1587.0
+      "real_latency_ms": 1288.0
     }
   ]
 }
