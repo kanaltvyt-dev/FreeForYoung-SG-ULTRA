@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1789370690,
-  "raw_unique": 5779,
-  "resolved": 5287,
-  "geoip_singapore_after_cdn_filter": 35,
-  "tcp_alive": 23,
-  "real_xray_tested": 23,
+  "generated_at_utc": 1789398080,
+  "raw_unique": 5778,
+  "resolved": 5278,
+  "geoip_singapore_after_cdn_filter": 34,
+  "tcp_alive": 21,
+  "real_xray_tested": 21,
   "real_xray_alive": 0,
   "published": 0,
   "source_stats": {
@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 24,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 17,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 14,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
