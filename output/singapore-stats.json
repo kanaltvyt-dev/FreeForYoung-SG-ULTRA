@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1789577333,
-  "raw_unique": 5814,
-  "resolved": 5323,
+  "generated_at_utc": 1789589153,
+  "raw_unique": 5783,
+  "resolved": 5306,
   "geoip_singapore_after_cdn_filter": 44,
-  "tcp_alive": 33,
-  "real_xray_tested": 33,
+  "tcp_alive": 32,
+  "real_xray_tested": 32,
   "real_xray_alive": 0,
   "published": 0,
   "source_stats": {
@@ -14,7 +14,7 @@
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": []
 }
