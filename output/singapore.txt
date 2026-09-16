@@ -6,14 +6,3 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://1803e6f6-9da1-4b31-8cc5-ffa155771a14@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&sni=www.yahoo.com&fp=chrome#SG
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#🇸🇬
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&sni=www.yahoo.com&fp=chrome#SG
-vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?&security=reality&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#🇸🇬172416
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d1742269&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#🇸🇬
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#EPODONIOS
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🇸🇬
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS
