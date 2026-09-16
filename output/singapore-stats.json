@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1789538330,
-  "raw_unique": 5839,
-  "resolved": 5288,
-  "geoip_singapore_after_cdn_filter": 33,
-  "tcp_alive": 22,
-  "real_xray_tested": 22,
+  "generated_at_utc": 1789558008,
+  "raw_unique": 5838,
+  "resolved": 5284,
+  "geoip_singapore_after_cdn_filter": 37,
+  "tcp_alive": 21,
+  "real_xray_tested": 21,
   "real_xray_alive": 2,
   "published": 2,
   "source_stats": {
@@ -24,13 +24,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 168.8,
+      "tcp_ping_ms": 166.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 794.9
+        "latency_ms": 1149.0
       },
-      "real_latency_ms": 794.9
+      "real_latency_ms": 1149.0
     },
     {
       "uri": "trojan://257b0378-01c9-4ded-836d-f94df60bd19c@sg-3.gsafevpnapi.com:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&sni=www.yahoo.com&fp=chrome#SG",
@@ -39,13 +39,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 169.1,
+      "tcp_ping_ms": 167.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 827.7
+        "latency_ms": 2308.7
       },
-      "real_latency_ms": 827.7
+      "real_latency_ms": 2308.7
     }
   ]
 }
