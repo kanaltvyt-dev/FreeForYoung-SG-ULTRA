@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": 1789599357,
-  "raw_unique": 5845,
-  "resolved": 5362,
-  "geoip_singapore_after_cdn_filter": 41,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1789608150,
+  "raw_unique": 5823,
+  "resolved": 5350,
+  "geoip_singapore_after_cdn_filter": 43,
+  "tcp_alive": 35,
+  "real_xray_tested": 35,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 50,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
   "servers": [
     {
@@ -24,13 +24,28 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 240.3,
+      "tcp_ping_ms": 182.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 976.6
+        "latency_ms": 751.2
       },
-      "real_latency_ms": 976.6
+      "real_latency_ms": 751.2
+    },
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 180.5,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 807.1
+      },
+      "real_latency_ms": 807.1
     }
   ]
 }
