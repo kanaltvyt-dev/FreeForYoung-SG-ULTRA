@@ -6,6 +6,3 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@sg-3.gsafevpnapi.com:44370?security=reality&sni=www.yahoo.com&fp=chrome&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&sid=c9672c5ded53a018&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#EPODONIOS
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS
