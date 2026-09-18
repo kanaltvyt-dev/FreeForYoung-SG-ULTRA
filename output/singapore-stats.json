@@ -1,51 +1,51 @@
 {
-  "generated_at_utc": 1789755866,
-  "raw_unique": 5857,
-  "resolved": 5335,
-  "geoip_singapore_after_cdn_filter": 42,
-  "tcp_alive": 37,
-  "real_xray_tested": 37,
-  "real_xray_alive": 5,
+  "generated_at_utc": 1789767559,
+  "raw_unique": 5689,
+  "resolved": 5186,
+  "geoip_singapore_after_cdn_filter": 48,
+  "tcp_alive": 43,
+  "real_xray_tested": 43,
+  "real_xray_alive": 8,
   "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 44,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#🇸🇬174840",
+      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#EPODONIOS",
       "ip": "206.206.76.75",
       "city": "Singapore",
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 1258.7,
+      "tcp_ping_ms": 226.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1048.6
+        "latency_ms": 1013.2
       },
-      "real_latency_ms": 1048.6
+      "real_latency_ms": 1013.2
     },
     {
-      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#@filembad",
+      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#🔵@chillguy_vpn",
       "ip": "206.206.76.75",
       "city": "Singapore",
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 2300.0,
+      "tcp_ping_ms": 227.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1983.5
+        "latency_ms": 1014.8
       },
-      "real_latency_ms": 1983.5
+      "real_latency_ms": 1014.8
     }
   ]
 }
