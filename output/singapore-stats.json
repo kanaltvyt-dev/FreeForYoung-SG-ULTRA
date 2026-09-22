@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1790035503,
-  "raw_unique": 5802,
-  "resolved": 5259,
+  "generated_at_utc": 1790052478,
+  "raw_unique": 5810,
+  "resolved": 5284,
   "geoip_singapore_after_cdn_filter": 46,
   "tcp_alive": 40,
   "real_xray_tested": 40,
@@ -9,7 +9,7 @@
   "published": 6,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 39,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 48,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
@@ -18,19 +18,19 @@
   },
   "servers": [
     {
-      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#🇸🇬",
+      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#EPODONIOS",
       "ip": "206.206.76.75",
       "city": "Singapore",
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 182.6,
+      "tcp_ping_ms": 200.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 755.1
+        "latency_ms": 817.5
       },
-      "real_latency_ms": 755.1
+      "real_latency_ms": 817.5
     },
     {
       "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#@tootffarangi🍓-7",
@@ -39,28 +39,13 @@
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 186.1,
+      "tcp_ping_ms": 203.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 759.5
+        "latency_ms": 820.3
       },
-      "real_latency_ms": 759.5
-    },
-    {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
-      "ip": "146.235.16.130",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 186.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 773.0
-      },
-      "real_latency_ms": 773.0
+      "real_latency_ms": 820.3
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬",
@@ -69,28 +54,28 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 186.3,
+      "tcp_ping_ms": 199.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 834.0
+        "latency_ms": 985.8
       },
-      "real_latency_ms": 834.0
+      "real_latency_ms": 985.8
     },
     {
-      "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬",
-      "ip": "46.137.202.178",
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
+      "ip": "146.235.16.130",
       "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 215.1,
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 197.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 912.9
+        "latency_ms": 1025.3
       },
-      "real_latency_ms": 912.9
+      "real_latency_ms": 1025.3
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
@@ -99,13 +84,28 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 215.5,
+      "tcp_ping_ms": 250.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 963.5
+        "latency_ms": 5371.5
       },
-      "real_latency_ms": 963.5
+      "real_latency_ms": 5371.5
+    },
+    {
+      "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬",
+      "ip": "46.137.202.178",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 250.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 5716.5
+      },
+      "real_latency_ms": 5716.5
     }
   ]
 }
