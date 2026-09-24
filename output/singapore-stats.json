@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": 1790243911,
-  "raw_unique": 5840,
-  "resolved": 5275,
-  "geoip_singapore_after_cdn_filter": 68,
-  "tcp_alive": 61,
-  "real_xray_tested": 61,
-  "real_xray_alive": 14,
+  "generated_at_utc": 1790262037,
+  "raw_unique": 5773,
+  "resolved": 5173,
+  "geoip_singapore_after_cdn_filter": 43,
+  "tcp_alive": 34,
+  "real_xray_tested": 34,
+  "real_xray_alive": 12,
   "published": 8,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
@@ -18,64 +18,79 @@
   },
   "servers": [
     {
+      "uri": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@tootffarangi🍓-14",
+      "ip": "5.223.74.174",
+      "city": "Singapore",
+      "isp": "Hetzner Online GmbH",
+      "org": "HETZNER-DC",
+      "as": "AS215859 Hetzner Online GmbH",
+      "tcp_ping_ms": 184.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 747.2
+      },
+      "real_latency_ms": 747.2
+    },
+    {
+      "uri": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti",
+      "ip": "5.223.74.174",
+      "city": "Singapore",
+      "isp": "Hetzner Online GmbH",
+      "org": "HETZNER-DC",
+      "as": "AS215859 Hetzner Online GmbH",
+      "tcp_ping_ms": 186.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 749.9
+      },
+      "real_latency_ms": 749.9
+    },
+    {
+      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#@tootffarangi🍓-7",
+      "ip": "206.206.76.75",
+      "city": "Singapore",
+      "isp": "Colocation America Corporation",
+      "org": "Ipxo LLC",
+      "as": "AS215311 Regxa Company for Information Technology Ltd",
+      "tcp_ping_ms": 186.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 769.5
+      },
+      "real_latency_ms": 769.5
+    },
+    {
       "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#MTMVPN",
       "ip": "206.206.76.75",
       "city": "Singapore",
       "isp": "Colocation America Corporation",
       "org": "Ipxo LLC",
       "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 179.3,
+      "tcp_ping_ms": 186.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 735.6
+        "latency_ms": 779.9
       },
-      "real_latency_ms": 735.6
+      "real_latency_ms": 779.9
     },
     {
-      "uri": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#EPODONIOS",
-      "ip": "5.223.74.174",
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
+      "ip": "146.235.16.130",
       "city": "Singapore",
-      "isp": "Hetzner Online GmbH",
-      "org": "HETZNER-DC",
-      "as": "AS215859 Hetzner Online GmbH",
-      "tcp_ping_ms": 182.3,
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 187.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 738.2
+        "latency_ms": 790.2
       },
-      "real_latency_ms": 738.2
-    },
-    {
-      "uri": "vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#EPODONIOS",
-      "ip": "206.206.76.75",
-      "city": "Singapore",
-      "isp": "Colocation America Corporation",
-      "org": "Ipxo LLC",
-      "as": "AS215311 Regxa Company for Information Technology Ltd",
-      "tcp_ping_ms": 182.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 741.3
-      },
-      "real_latency_ms": 741.3
-    },
-    {
-      "uri": "vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#Tel-@ProxyMtAlpha🍦",
-      "ip": "5.223.74.174",
-      "city": "Singapore",
-      "isp": "Hetzner Online GmbH",
-      "org": "HETZNER-DC",
-      "as": "AS215859 Hetzner Online GmbH",
-      "tcp_ping_ms": 187.8,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 746.5
-      },
-      "real_latency_ms": 746.5
+      "real_latency_ms": 790.2
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬",
@@ -84,28 +99,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 183.3,
+      "tcp_ping_ms": 184.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 760.8
+        "latency_ms": 894.4
       },
-      "real_latency_ms": 760.8
-    },
-    {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&encryption=none#SG",
-      "ip": "146.235.16.130",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 198.2,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 791.7
-      },
-      "real_latency_ms": 791.7
+      "real_latency_ms": 894.4
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
@@ -114,13 +114,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 321.8,
+      "tcp_ping_ms": 239.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1499.0
+        "latency_ms": 1016.1
       },
-      "real_latency_ms": 1499.0
+      "real_latency_ms": 1016.1
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬",
@@ -129,13 +129,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 337.1,
+      "tcp_ping_ms": 213.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2850.1
+        "latency_ms": 1041.6
       },
-      "real_latency_ms": 2850.1
+      "real_latency_ms": 1041.6
     }
   ]
 }
