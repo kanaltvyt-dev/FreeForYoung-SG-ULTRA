@@ -1,36 +1,20 @@
 {
-  "generated_at_utc": 1790646792,
-  "raw_unique": 5813,
-  "resolved": 5271,
-  "geoip_singapore_after_cdn_filter": 40,
-  "tcp_alive": 26,
-  "real_xray_tested": 26,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1790670269,
+  "raw_unique": 5808,
+  "resolved": 5269,
+  "geoip_singapore_after_cdn_filter": 39,
+  "tcp_alive": 25,
+  "real_xray_tested": 25,
+  "real_xray_alive": 0,
+  "published": 0,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 49,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 48,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
-  "servers": [
-    {
-      "uri": "vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=IXxfPvq2OkbSuA-ZTBFpMzkDU1uO8dEI1e7s9VfHh1Y&sid=7996bf4dcf194d18#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
-      "ip": "18.139.227.162",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 238.7,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1875.7
-      },
-      "real_latency_ms": 1875.7
-    }
-  ]
+  "servers": []
 }
