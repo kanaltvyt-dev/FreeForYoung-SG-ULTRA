@@ -6,13 +6,9 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#🇸🇬
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1&sni=glowing-marmoset.rooster465.autos#EPODONIOS
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#EPODONIOS
 trojan://UX82473651@18.143.92.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=glowing-marmoset.rooster465.autos#EPODONIOS
-trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1&sni=desired-boxer.rooster465.autos#EPODONIOS
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#🇸🇬
-trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1&sni=desired-boxer.rooster465.autos#🇸🇬
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#🇸🇬
+trojan://UX82473651@18.143.92.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=glowing-marmoset.rooster465.autos#@FarazV2ray
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@vpnbaz
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#EPODONIOS
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#EPODONIOS
