@@ -6,13 +6,7 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#EPODONIOS
-trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://UX82473651@fond-mammoth.rooster465.autos:443?allowInsecure=1&sni=fond-mammoth.rooster465.autos#🇸🇬SG-🚀@VPNine1
-trojan://UX82473651@fond-mammoth.rooster465.autos:443?allowInsecure=1&sni=fond-mammoth.rooster465.autos#EPODONIOS
-trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#🇸🇬191110
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#EPODONIOS
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#🇸🇬191376
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#EPODONIOS
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#🇸🇬
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬
