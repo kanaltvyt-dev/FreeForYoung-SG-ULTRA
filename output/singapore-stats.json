@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": 1791708263,
-  "raw_unique": 5764,
-  "resolved": 5242,
-  "geoip_singapore_after_cdn_filter": 41,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 10,
-  "published": 10,
+  "generated_at_utc": 1791733083,
+  "raw_unique": 5812,
+  "resolved": 5296,
+  "geoip_singapore_after_cdn_filter": 49,
+  "tcp_alive": 30,
+  "real_xray_tested": 30,
+  "real_xray_alive": 14,
+  "published": 14,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 50,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#🇸🇬",
-      "ip": "52.221.222.185",
+      "uri": "trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#🇸🇬",
+      "ip": "13.229.59.187",
       "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
+      "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 201.0,
+      "tcp_ping_ms": 168.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 813.5
+        "latency_ms": 699.1
       },
-      "real_latency_ms": 813.5
+      "real_latency_ms": 699.1
     },
     {
       "uri": "trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#EPODONIOS",
@@ -39,58 +39,43 @@
       "isp": "Amazon Technologies Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 198.5,
+      "tcp_ping_ms": 169.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 818.0
+        "latency_ms": 702.0
       },
-      "real_latency_ms": 818.0
+      "real_latency_ms": 702.0
     },
     {
-      "uri": "trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬",
-      "ip": "54.179.60.162",
+      "uri": "trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#🇸🇬",
+      "ip": "52.221.222.185",
       "city": "Singapore",
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 201.1,
+      "tcp_ping_ms": 169.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 819.4
+        "latency_ms": 706.0
       },
-      "real_latency_ms": 819.4
+      "real_latency_ms": 706.0
     },
     {
-      "uri": "trojan://UX82473651@inspired-hound.rooster465.autos:443?allowInsecure=1&sni=inspired-hound.rooster465.autos#🇸🇬",
-      "ip": "13.229.59.187",
+      "uri": "trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#EPODONIOS",
+      "ip": "47.131.250.125",
       "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
+      "isp": "Amazon Technologies Inc",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 199.2,
+      "tcp_ping_ms": 169.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 821.5
+        "latency_ms": 706.8
       },
-      "real_latency_ms": 821.5
-    },
-    {
-      "uri": "trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#EPODONIOS",
-      "ip": "54.179.60.162",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 197.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 822.8
-      },
-      "real_latency_ms": 822.8
+      "real_latency_ms": 706.8
     },
     {
       "uri": "trojan://UX82473651@joint-ewe.rooster465.autos:443?allowInsecure=1&sni=joint-ewe.rooster465.autos#EPODONIOS",
@@ -99,13 +84,88 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 197.3,
+      "tcp_ping_ms": 170.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 831.8
+        "latency_ms": 709.3
       },
-      "real_latency_ms": 831.8
+      "real_latency_ms": 709.3
+    },
+    {
+      "uri": "trojan://UX82473651@simple-molly.rooster465.autos:443?security=tls&sni=simple-molly.rooster465.autos#🇸🇬",
+      "ip": "47.131.250.125",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 169.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 710.8
+      },
+      "real_latency_ms": 710.8
+    },
+    {
+      "uri": "trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#🇸🇬",
+      "ip": "54.179.60.162",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 170.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 711.7
+      },
+      "real_latency_ms": 711.7
+    },
+    {
+      "uri": "trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&sni=rested-seahorse.rooster465.autos#EPODONIOS",
+      "ip": "13.229.121.67",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 170.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 712.5
+      },
+      "real_latency_ms": 712.5
+    },
+    {
+      "uri": "trojan://UX82473651@intense-wildcat.rooster465.autos:443?allowInsecure=1&sni=intense-wildcat.rooster465.autos#EPODONIOS",
+      "ip": "54.179.60.162",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 169.9,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 713.0
+      },
+      "real_latency_ms": 713.0
+    },
+    {
+      "uri": "trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&sni=rested-seahorse.rooster465.autos#🇸🇬",
+      "ip": "13.229.121.67",
+      "city": "Singapore",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 170.4,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 716.1
+      },
+      "real_latency_ms": 716.1
     },
     {
       "uri": "trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#EPODONIOS",
@@ -114,13 +174,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 239.1,
+      "tcp_ping_ms": 169.1,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 914.8
+        "latency_ms": 883.0
       },
-      "real_latency_ms": 914.8
+      "real_latency_ms": 883.0
     },
     {
       "uri": "trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#🇸🇬",
@@ -129,13 +189,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 242.8,
+      "tcp_ping_ms": 175.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 937.0
+        "latency_ms": 883.8
       },
-      "real_latency_ms": 937.0
+      "real_latency_ms": 883.8
     },
     {
       "uri": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#🇸🇬",
@@ -144,13 +204,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 287.6,
+      "tcp_ping_ms": 231.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 4819.4
+        "latency_ms": 1330.3
       },
-      "real_latency_ms": 4819.4
+      "real_latency_ms": 1330.3
     },
     {
       "uri": "trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#EPODONIOS",
@@ -159,13 +219,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 236.1,
+      "tcp_ping_ms": 227.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 6570.7
+        "latency_ms": 1502.2
       },
-      "real_latency_ms": 6570.7
+      "real_latency_ms": 1502.2
     }
   ]
 }
