@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1792332078,
-  "raw_unique": 5751,
-  "resolved": 5263,
-  "geoip_singapore_after_cdn_filter": 61,
-  "tcp_alive": 34,
-  "real_xray_tested": 34,
+  "generated_at_utc": 1792343951,
+  "raw_unique": 5787,
+  "resolved": 5300,
+  "geoip_singapore_after_cdn_filter": 54,
+  "tcp_alive": 29,
+  "real_xray_tested": 29,
   "real_xray_alive": 2,
   "published": 2,
   "source_stats": {
@@ -12,25 +12,25 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 44,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#EPODONIOS",
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
       "ip": "139.180.146.200",
       "city": "Singapore",
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 196.0,
+      "tcp_ping_ms": 220.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 795.0
+        "latency_ms": 898.8
       },
-      "real_latency_ms": 795.0
+      "real_latency_ms": 898.8
     },
     {
       "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#EPODONIOS",
@@ -39,13 +39,13 @@
       "isp": "BrainStorm Network, Inc",
       "org": "Oneprovider.com",
       "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 196.5,
+      "tcp_ping_ms": 219.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2421.8
+        "latency_ms": 1449.8
       },
-      "real_latency_ms": 2421.8
+      "real_latency_ms": 1449.8
     }
   ]
 }
