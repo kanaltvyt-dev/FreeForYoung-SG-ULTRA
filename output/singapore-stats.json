@@ -1,36 +1,51 @@
 {
-  "generated_at_utc": 1792343951,
-  "raw_unique": 5787,
-  "resolved": 5300,
-  "geoip_singapore_after_cdn_filter": 54,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1792355761,
+  "raw_unique": 5766,
+  "resolved": 5269,
+  "geoip_singapore_after_cdn_filter": 50,
+  "tcp_alive": 28,
+  "real_xray_tested": 28,
+  "real_xray_alive": 9,
+  "published": 4,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 44,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
+      "uri": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#@irdusti(41)🇸🇬¹",
+      "ip": "88.216.191.10",
       "city": "Singapore",
-      "isp": "SGP VULTR",
+      "isp": "UAB Cherry Servers",
       "org": "",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 220.2,
+      "as": "AS216444 UAB Cherry Servers",
+      "tcp_ping_ms": 229.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 898.8
+        "latency_ms": 914.0
       },
-      "real_latency_ms": 898.8
+      "real_latency_ms": 914.0
+    },
+    {
+      "uri": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#•",
+      "ip": "88.216.191.10",
+      "city": "Singapore",
+      "isp": "UAB Cherry Servers",
+      "org": "",
+      "as": "AS216444 UAB Cherry Servers",
+      "tcp_ping_ms": 227.1,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 914.5
+      },
+      "real_latency_ms": 914.5
     },
     {
       "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#EPODONIOS",
@@ -39,13 +54,28 @@
       "isp": "BrainStorm Network, Inc",
       "org": "Oneprovider.com",
       "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 219.8,
+      "tcp_ping_ms": 221.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1449.8
+        "latency_ms": 1468.5
       },
-      "real_latency_ms": 1449.8
+      "real_latency_ms": 1468.5
+    },
+    {
+      "uri": "vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#EPODONIOS",
+      "ip": "54.169.200.246",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 260.7,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1975.6
+      },
+      "real_latency_ms": 1975.6
     }
   ]
 }
