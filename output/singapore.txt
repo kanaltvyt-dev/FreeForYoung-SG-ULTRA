@@ -6,12 +6,8 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@nl2.h1cloud.net:25452?encryption=none&security=reality&sni=www.ns.nl&fp=chrome&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&spx=%2F&type=tcp&headerType=none#SG
-vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@164.37.224.244:25239?security=reality&encryption=none&pbk=0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk&headerType=&type=tcp&sni=www.microsoft.com&sid=9a382b227140e86f#10538@proxy_online_net
-vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@164.37.224.244:25239?security=reality&encryption=none&pbk=0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk&headerType=&type=tcp&sni=www.microsoft.com&sid=9a382b227140e86f#🔥Join+Telegram:@Farah_VPN🟣
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#EPODONIOS
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#@irdusti(41)🇸🇬¹
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#EPODONIOS
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#🇸🇬
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#EPODONIOS
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#🇸🇬
 vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#EPODONIOS
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?&sni=178.94.25.73&type=tcp&headerType=none&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#EPODONIOS
