@@ -1,66 +1,81 @@
 {
-  "generated_at_utc": 1792508489,
-  "raw_unique": 5719,
-  "resolved": 5192,
-  "geoip_singapore_after_cdn_filter": 49,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 4,
-  "published": 4,
+  "generated_at_utc": 1792523569,
+  "raw_unique": 5753,
+  "resolved": 5223,
+  "geoip_singapore_after_cdn_filter": 80,
+  "tcp_alive": 64,
+  "real_xray_tested": 64,
+  "real_xray_alive": 40,
+  "published": 6,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 26,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
   "servers": [
     {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬",
-      "ip": "146.235.16.130",
+      "uri": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#EPODONIOS",
+      "ip": "88.216.191.10",
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 179.7,
+      "isp": "UAB Cherry Servers",
+      "org": "",
+      "as": "AS216444 UAB Cherry Servers",
+      "tcp_ping_ms": 172.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 754.4
+        "latency_ms": 694.8
       },
-      "real_latency_ms": 754.4
+      "real_latency_ms": 694.8
     },
     {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
-      "ip": "146.235.16.130",
+      "uri": "vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#@irdusti(41)🇸🇬¹",
+      "ip": "88.216.191.10",
       "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 178.6,
+      "isp": "UAB Cherry Servers",
+      "org": "",
+      "as": "AS216444 UAB Cherry Servers",
+      "tcp_ping_ms": 170.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 791.4
+        "latency_ms": 696.4
       },
-      "real_latency_ms": 791.4
+      "real_latency_ms": 696.4
     },
     {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#EPODONIOS",
-      "ip": "103.106.229.37",
+      "uri": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#EPODONIOS",
+      "ip": "18.140.115.38",
       "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 175.1,
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 168.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1250.2
+        "latency_ms": 714.1
       },
-      "real_latency_ms": 1250.2
+      "real_latency_ms": 714.1
+    },
+    {
+      "uri": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#EPODONIOS",
+      "ip": "18.140.115.38",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 169.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 717.4
+      },
+      "real_latency_ms": 717.4
     },
     {
       "uri": "vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@43.174.218.1:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=chrome&type=ws&path=%2F&host=u.srilankangrill.online#SG",
@@ -69,13 +84,28 @@
       "isp": "ACE",
       "org": "",
       "as": "AS139341 ACE",
-      "tcp_ping_ms": 91.0,
+      "tcp_ping_ms": 100.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1656.6
+        "latency_ms": 1699.7
       },
-      "real_latency_ms": 1656.6
+      "real_latency_ms": 1699.7
+    },
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#🇸🇬",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
+      "tcp_ping_ms": 169.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 2957.9
+      },
+      "real_latency_ms": 2957.9
     }
   ]
 }
