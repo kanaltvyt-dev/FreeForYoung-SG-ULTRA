@@ -1,37 +1,22 @@
 {
-  "generated_at_utc": 1792452970,
-  "raw_unique": 5765,
-  "resolved": 5225,
-  "geoip_singapore_after_cdn_filter": 42,
-  "tcp_alive": 24,
-  "real_xray_tested": 24,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1792471443,
+  "raw_unique": 5807,
+  "resolved": 5213,
+  "geoip_singapore_after_cdn_filter": 48,
+  "tcp_alive": 30,
+  "real_xray_tested": 30,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 44,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 26,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@nl2.h1cloud.net:25452?security=reality&encryption=none&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.ns.nl&sid=fe51f413b9646e97#SG",
-      "ip": "164.37.224.232",
-      "city": "Singapore",
-      "isp": "Global Communication Network Limited",
-      "org": "",
-      "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
-      "tcp_ping_ms": 146.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 701.3
-      },
-      "real_latency_ms": 701.3
-    },
     {
       "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#EPODONIOS",
       "ip": "103.106.229.37",
@@ -39,13 +24,13 @@
       "isp": "BrainStorm Network, Inc",
       "org": "Oneprovider.com",
       "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 168.9,
+      "tcp_ping_ms": 202.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1203.9
+        "latency_ms": 1366.5
       },
-      "real_latency_ms": 1203.9
+      "real_latency_ms": 1366.5
     }
   ]
 }
