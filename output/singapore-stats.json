@@ -1,51 +1,36 @@
 {
-  "generated_at_utc": 1793118710,
-  "raw_unique": 5761,
-  "resolved": 5197,
-  "geoip_singapore_after_cdn_filter": 31,
-  "tcp_alive": 23,
-  "real_xray_tested": 23,
-  "real_xray_alive": 7,
-  "published": 7,
+  "generated_at_utc": 1793135919,
+  "raw_unique": 5750,
+  "resolved": 4992,
+  "geoip_singapore_after_cdn_filter": 74,
+  "tcp_alive": 65,
+  "real_xray_tested": 65,
+  "real_xray_alive": 39,
+  "published": 9,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 40,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": 2000,
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 9,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#🇸🇬",
-      "ip": "95.111.195.98",
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
+      "ip": "139.180.146.200",
       "city": "Singapore",
-      "isp": "UpCloud Ltd",
+      "isp": "SGP VULTR",
       "org": "",
-      "as": "AS202053 UpCloud Ltd",
-      "tcp_ping_ms": 162.0,
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 160.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 727.4
+        "latency_ms": 658.5
       },
-      "real_latency_ms": 727.4
-    },
-    {
-      "uri": "vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#EPODONIOS",
-      "ip": "95.111.195.98",
-      "city": "Singapore",
-      "isp": "UpCloud Ltd",
-      "org": "",
-      "as": "AS202053 UpCloud Ltd",
-      "tcp_ping_ms": 161.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 737.2
-      },
-      "real_latency_ms": 737.2
+      "real_latency_ms": 658.5
     },
     {
       "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#EPODONIOS",
@@ -54,28 +39,88 @@
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 165.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 659.3
+      },
+      "real_latency_ms": 659.3
+    },
+    {
+      "uri": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#EPODONIOS",
+      "ip": "13.250.182.172",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 162.7,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 680.0
+      },
+      "real_latency_ms": 680.0
+    },
+    {
+      "uri": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#EPODONIOS",
+      "ip": "13.250.182.172",
+      "city": "Singapore",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS EC2 (ap-southeast-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "tcp_ping_ms": 163.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 682.7
+      },
+      "real_latency_ms": 682.7
+    },
+    {
+      "uri": "vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#🇸🇬",
+      "ip": "95.111.195.98",
+      "city": "Singapore",
+      "isp": "UpCloud Ltd",
+      "org": "",
+      "as": "AS202053 UpCloud Ltd",
+      "tcp_ping_ms": 166.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 697.0
+      },
+      "real_latency_ms": 697.0
+    },
+    {
+      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#@pass_net🎃🕸️🎃",
+      "ip": "146.235.16.130",
+      "city": "Singapore",
+      "isp": "Oracle Corporation",
+      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
+      "as": "AS31898 Oracle Corporation",
       "tcp_ping_ms": 161.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 748.2
+        "latency_ms": 706.6
       },
-      "real_latency_ms": 748.2
+      "real_latency_ms": 706.6
     },
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
+      "uri": "vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#EPODONIOS",
+      "ip": "95.111.195.98",
       "city": "Singapore",
-      "isp": "SGP VULTR",
+      "isp": "UpCloud Ltd",
       "org": "",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 161.1,
+      "as": "AS202053 UpCloud Ltd",
+      "tcp_ping_ms": 166.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 754.8
+        "latency_ms": 709.8
       },
-      "real_latency_ms": 754.8
+      "real_latency_ms": 709.8
     },
     {
       "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#EPODONIOS",
@@ -84,28 +129,13 @@
       "isp": "Oracle Corporation",
       "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
       "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 161.7,
+      "tcp_ping_ms": 164.5,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1691.6
+        "latency_ms": 1580.9
       },
-      "real_latency_ms": 1691.6
-    },
-    {
-      "uri": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#EPODONIOS",
-      "ip": "146.235.16.130",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 160.8,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1747.7
-      },
-      "real_latency_ms": 1747.7
+      "real_latency_ms": 1580.9
     },
     {
       "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#EPODONIOS",
@@ -114,13 +144,13 @@
       "isp": "Amazon.com, Inc.",
       "org": "AWS EC2 (ap-southeast-1)",
       "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 190.0,
+      "tcp_ping_ms": 220.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1787.2
+        "latency_ms": 1963.6
       },
-      "real_latency_ms": 1787.2
+      "real_latency_ms": 1963.6
     }
   ]
 }
