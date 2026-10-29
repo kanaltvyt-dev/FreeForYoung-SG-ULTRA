@@ -6,6 +6,5 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://5a519754-a673-4462-83f6-5eb25d2af141@164.37.224.228:25445/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf#@tootffarangi🍓
-vless://5a519754-a673-4462-83f6-5eb25d2af141@164.37.224.228:25445?&security=reality&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf&fp=firefox&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%7C%20SGP
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬
