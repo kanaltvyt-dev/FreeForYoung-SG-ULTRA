@@ -1,22 +1,52 @@
 {
-  "generated_at_utc": 1793221197,
-  "raw_unique": 3909,
-  "resolved": 3512,
-  "geoip_singapore_after_cdn_filter": 25,
-  "tcp_alive": 20,
-  "real_xray_tested": 20,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1793235016,
+  "raw_unique": 3883,
+  "resolved": 3325,
+  "geoip_singapore_after_cdn_filter": 26,
+  "tcp_alive": 22,
+  "real_xray_tested": 22,
+  "real_xray_alive": 3,
+  "published": 3,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 28,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
+    {
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
+      "ip": "139.180.146.200",
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 167.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 689.2
+      },
+      "real_latency_ms": 689.2
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬",
+      "ip": "149.28.130.108",
+      "city": "Singapore",
+      "isp": "The Constant Company",
+      "org": "Vultr Holdings, LLC",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 168.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 696.2
+      },
+      "real_latency_ms": 696.2
+    },
     {
       "uri": "vless://5a519754-a673-4462-83f6-5eb25d2af141@164.37.224.228:25445?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf#SG",
       "ip": "164.37.224.228",
@@ -24,13 +54,13 @@
       "isp": "Global Communication Network Limited",
       "org": "",
       "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
-      "tcp_ping_ms": 162.4,
+      "tcp_ping_ms": 149.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 6279.1
+        "latency_ms": 2796.0
       },
-      "real_latency_ms": 6279.1
+      "real_latency_ms": 2796.0
     }
   ]
 }
