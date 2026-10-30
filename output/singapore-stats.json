@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1793338670,
-  "raw_unique": 3818,
-  "resolved": 3368,
+  "generated_at_utc": 1793364246,
+  "raw_unique": 3820,
+  "resolved": 3365,
   "geoip_singapore_after_cdn_filter": 37,
   "tcp_alive": 33,
   "real_xray_tested": 33,
@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 20,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
@@ -24,13 +24,13 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 199.0,
+      "tcp_ping_ms": 199.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 807.2
+        "latency_ms": 803.5
       },
-      "real_latency_ms": 807.2
+      "real_latency_ms": 803.5
     }
   ]
 }
