@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": 1793401039,
-  "raw_unique": 3845,
-  "resolved": 3395,
-  "geoip_singapore_after_cdn_filter": 31,
-  "tcp_alive": 27,
-  "real_xray_tested": 27,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1793413074,
+  "raw_unique": 3846,
+  "resolved": 3400,
+  "geoip_singapore_after_cdn_filter": 30,
+  "tcp_alive": 26,
+  "real_xray_tested": 26,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 20,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
@@ -24,13 +24,28 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 206.4,
+      "tcp_ping_ms": 160.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 837.1
+        "latency_ms": 661.4
       },
-      "real_latency_ms": 837.1
+      "real_latency_ms": 661.4
+    },
+    {
+      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
+      "ip": "139.180.146.200",
+      "city": "Singapore",
+      "isp": "SGP VULTR",
+      "org": "",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 167.9,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 728.1
+      },
+      "real_latency_ms": 728.1
     }
   ]
 }
