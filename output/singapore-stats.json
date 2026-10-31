@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": 1793476565,
-  "raw_unique": 3878,
-  "resolved": 3475,
-  "geoip_singapore_after_cdn_filter": 35,
-  "tcp_alive": 32,
-  "real_xray_tested": 32,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1793488770,
+  "raw_unique": 3829,
+  "resolved": 3333,
+  "geoip_singapore_after_cdn_filter": 32,
+  "tcp_alive": 29,
+  "real_xray_tested": 29,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 31,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
   "servers": [
     {
@@ -24,28 +24,13 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 183.0,
+      "tcp_ping_ms": 182.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 742.2
+        "latency_ms": 732.8
       },
-      "real_latency_ms": 742.2
-    },
-    {
-      "uri": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg1.zestapp778.com:56984?sni=sg1.zestapp778.com&fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
-      "ip": "140.235.11.243",
-      "city": "Singapore",
-      "isp": "Sakura Link Limited",
-      "org": "Sakura LTD",
-      "as": "AS32135 SAKURA LTD.",
-      "tcp_ping_ms": 180.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 787.2
-      },
-      "real_latency_ms": 787.2
+      "real_latency_ms": 732.8
     }
   ]
 }
