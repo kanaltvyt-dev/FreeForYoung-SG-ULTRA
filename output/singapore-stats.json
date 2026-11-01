@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1793512461,
-  "raw_unique": 3849,
-  "resolved": 3357,
-  "geoip_singapore_after_cdn_filter": 36,
-  "tcp_alive": 33,
-  "real_xray_tested": 33,
+  "generated_at_utc": 1793538809,
+  "raw_unique": 3862,
+  "resolved": 3368,
+  "geoip_singapore_after_cdn_filter": 40,
+  "tcp_alive": 37,
+  "real_xray_tested": 37,
   "real_xray_alive": 2,
   "published": 2,
   "source_stats": {
@@ -24,13 +24,13 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 167.6,
+      "tcp_ping_ms": 167.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 691.4
+        "latency_ms": 689.1
       },
-      "real_latency_ms": 691.4
+      "real_latency_ms": 689.1
     },
     {
       "uri": "vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@92.243.74.224:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&security=reality&sid=385cb18df0892069&sni=de8.vpngold.ru&type=tcp#SG",
@@ -39,13 +39,13 @@
       "isp": "Axiom Asia Services PTE. LTD",
       "org": "Axiom Asia Services PTE. LTD",
       "as": "",
-      "tcp_ping_ms": 153.4,
+      "tcp_ping_ms": 148.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 740.8
+        "latency_ms": 724.8
       },
-      "real_latency_ms": 740.8
+      "real_latency_ms": 724.8
     }
   ]
 }
