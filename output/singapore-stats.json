@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": 1793488770,
-  "raw_unique": 3829,
-  "resolved": 3333,
-  "geoip_singapore_after_cdn_filter": 32,
-  "tcp_alive": 29,
-  "real_xray_tested": 29,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1793512461,
+  "raw_unique": 3849,
+  "resolved": 3357,
+  "geoip_singapore_after_cdn_filter": 36,
+  "tcp_alive": 33,
+  "real_xray_tested": 33,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 31,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
@@ -24,13 +24,28 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 182.2,
+      "tcp_ping_ms": 167.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 732.8
+        "latency_ms": 691.4
       },
-      "real_latency_ms": 732.8
+      "real_latency_ms": 691.4
+    },
+    {
+      "uri": "vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@92.243.74.224:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&security=reality&sid=385cb18df0892069&sni=de8.vpngold.ru&type=tcp#SG",
+      "ip": "92.243.74.224",
+      "city": "Singapore",
+      "isp": "Axiom Asia Services PTE. LTD",
+      "org": "Axiom Asia Services PTE. LTD",
+      "as": "",
+      "tcp_ping_ms": 153.4,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 740.8
+      },
+      "real_latency_ms": 740.8
     }
   ]
 }
