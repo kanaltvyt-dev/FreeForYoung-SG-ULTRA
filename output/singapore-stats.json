@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": 1793674406,
-  "raw_unique": 3859,
-  "resolved": 3365,
-  "geoip_singapore_after_cdn_filter": 36,
-  "tcp_alive": 35,
-  "real_xray_tested": 35,
-  "real_xray_alive": 6,
-  "published": 3,
+  "generated_at_utc": 1793702717,
+  "raw_unique": 3900,
+  "resolved": 3413,
+  "geoip_singapore_after_cdn_filter": 41,
+  "tcp_alive": 39,
+  "real_xray_tested": 39,
+  "real_xray_alive": 7,
+  "published": 6,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 49,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 48,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayng_Fast",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@FarazV2ray",
       "ip": "149.28.130.108",
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 198.8,
+      "tcp_ping_ms": 205.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 801.3
+        "latency_ms": 840.2
       },
-      "real_latency_ms": 801.3
+      "real_latency_ms": 840.2
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com#⏳42@oneclickvpnkeys",
@@ -39,28 +39,73 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 198.2,
+      "tcp_ping_ms": 209.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 804.5
+        "latency_ms": 845.5
       },
-      "real_latency_ms": 804.5
+      "real_latency_ms": 845.5
     },
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&sni=exploredigitaljobplatformandfindonlinework.com&type=tcp#@tootffarangi🍓",
+      "ip": "15.235.184.127",
       "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 198.3,
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 207.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 806.1
+        "latency_ms": 1033.2
       },
-      "real_latency_ms": 806.1
+      "real_latency_ms": 1033.2
+    },
+    {
+      "uri": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#@V2ray_confiig",
+      "ip": "5.223.59.87",
+      "city": "Singapore",
+      "isp": "Hetzner Online GmbH",
+      "org": "Hetzner Online GmbH",
+      "as": "AS215859 Hetzner Online GmbH",
+      "tcp_ping_ms": 204.1,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1058.8
+      },
+      "real_latency_ms": 1058.8
+    },
+    {
+      "uri": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "5.223.59.87",
+      "city": "Singapore",
+      "isp": "Hetzner Online GmbH",
+      "org": "Hetzner Online GmbH",
+      "as": "AS215859 Hetzner Online GmbH",
+      "tcp_ping_ms": 206.1,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1082.5
+      },
+      "real_latency_ms": 1082.5
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#Channel",
+      "ip": "15.235.184.127",
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 206.8,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1185.7
+      },
+      "real_latency_ms": 1185.7
     }
   ]
 }
