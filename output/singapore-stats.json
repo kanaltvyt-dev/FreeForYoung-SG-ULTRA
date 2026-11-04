@@ -1,216 +1,36 @@
 {
-  "generated_at_utc": 1793802264,
-  "raw_unique": 3903,
-  "resolved": 3469,
-  "geoip_singapore_after_cdn_filter": 93,
-  "tcp_alive": 90,
-  "real_xray_tested": 90,
-  "real_xray_alive": 25,
-  "published": 13,
+  "generated_at_utc": 1793826979,
+  "raw_unique": 3879,
+  "resolved": 3383,
+  "geoip_singapore_after_cdn_filter": 41,
+  "tcp_alive": 39,
+  "real_xray_tested": 39,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 46,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 9,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#SG",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
       "ip": "149.28.130.108",
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 167.2,
+      "tcp_ping_ms": 183.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 693.4
+        "latency_ms": 748.0
       },
-      "real_latency_ms": 693.4
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com#⏳42@oneclickvpnkeys",
-      "ip": "149.28.130.108",
-      "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 170.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 693.7
-      },
-      "real_latency_ms": 693.7
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#SG",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 167.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 990.8
-      },
-      "real_latency_ms": 990.8
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21001?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=a51c3ccb2320024a#SG",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 167.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 991.2
-      },
-      "real_latency_ms": 991.2
-    },
-    {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=ab39fc68ab3dee81#@VPsave",
-      "ip": "103.106.229.37",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 172.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 999.2
-      },
-      "real_latency_ms": 999.2
-    },
-    {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21003?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=bab49aa4c2a88d27#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "103.106.229.37",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 171.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1006.3
-      },
-      "real_latency_ms": 1006.3
-    },
-    {
-      "uri": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=ios&security=reality&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
-      "ip": "54.251.9.130",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 184.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1438.7
-      },
-      "real_latency_ms": 1438.7
-    },
-    {
-      "uri": "vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&type=tcp&allowInsecure=1&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#SG",
-      "ip": "147.93.173.45",
-      "city": "Singapore",
-      "isp": "Contabo Asia Private Limited",
-      "org": "Contabo GmbH",
-      "as": "AS141995 Contabo Asia Private Limited",
-      "tcp_ping_ms": 165.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1454.8
-      },
-      "real_latency_ms": 1454.8
-    },
-    {
-      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?flow=xtls-rprx-vision&fp=random&host=www.apple.com&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#SG",
-      "ip": "3.0.111.82",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 171.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1521.8
-      },
-      "real_latency_ms": 1521.8
-    },
-    {
-      "uri": "vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "134.185.81.5",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 167.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 2200.4
-      },
-      "real_latency_ms": 2200.4
-    },
-    {
-      "uri": "vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?flow=xtls-rprx-vision&fp=qq&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#SG",
-      "ip": "3.0.111.82",
-      "city": "Singapore",
-      "isp": "Amazon Technologies Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 213.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 2666.8
-      },
-      "real_latency_ms": 2666.8
-    },
-    {
-      "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#Channel",
-      "ip": "46.137.202.178",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 192.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 9016.4
-      },
-      "real_latency_ms": 9016.4
-    },
-    {
-      "uri": "vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC",
-      "ip": "46.137.202.178",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 239.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 9451.8
-      },
-      "real_latency_ms": 9451.8
+      "real_latency_ms": 748.0
     }
   ]
 }
