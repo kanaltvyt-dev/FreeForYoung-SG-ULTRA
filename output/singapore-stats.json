@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1793904213,
-  "raw_unique": 3898,
-  "resolved": 3369,
-  "geoip_singapore_after_cdn_filter": 83,
-  "tcp_alive": 75,
-  "real_xray_tested": 75,
-  "real_xray_alive": 13,
-  "published": 10,
+  "generated_at_utc": 1793923753,
+  "raw_unique": 3906,
+  "resolved": 3293,
+  "geoip_singapore_after_cdn_filter": 47,
+  "tcp_alive": 43,
+  "real_xray_tested": 43,
+  "real_xray_alive": 6,
+  "published": 3,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 26,
@@ -24,148 +24,43 @@
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 170.3,
+      "tcp_ping_ms": 161.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 689.4
+        "latency_ms": 660.3
       },
-      "real_latency_ms": 689.4
+      "real_latency_ms": 660.3
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "149.28.130.108",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@tootffarangi🍓",
+      "ip": "15.235.184.127",
       "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 167.3,
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 220.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 691.5
+        "latency_ms": 845.8
       },
-      "real_latency_ms": 691.5
+      "real_latency_ms": 845.8
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬206923",
-      "ip": "149.28.130.108",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com#[87777]",
+      "ip": "15.235.184.127",
       "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 167.2,
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 220.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 692.6
+        "latency_ms": 854.2
       },
-      "real_latency_ms": 692.6
-    },
-    {
-      "uri": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@140.235.11.243:56984?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sg1.zestapp778.com#Channel",
-      "ip": "140.235.11.243",
-      "city": "Singapore",
-      "isp": "Sakura Ltd.",
-      "org": "Sakura LTD",
-      "as": "AS32135 SAKURA LTD.",
-      "tcp_ping_ms": 168.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 699.3
-      },
-      "real_latency_ms": 699.3
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21003?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=f3602a3a1cf928b7&sni=www.cloudflare.com&type=tcp#SG",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 172.8,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 992.5
-      },
-      "real_latency_ms": 992.5
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 169.6,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 997.5
-      },
-      "real_latency_ms": 997.5
-    },
-    {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=ab39fc68ab3dee81#🔥Join+Telegram:@Farah_VPN🟣",
-      "ip": "103.106.229.37",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 170.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1406.8
-      },
-      "real_latency_ms": 1406.8
-    },
-    {
-      "uri": "vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?flow=xtls-rprx-vision&fp=ios&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&security=reality&sid=38d72071&sni=www.tesla.com&type=tcp#SG",
-      "ip": "134.185.81.5",
-      "city": "Singapore",
-      "isp": "Oracle Corporation",
-      "org": "Oracle Cloud Infrastructure (ap-singapore-1)",
-      "as": "AS31898 Oracle Corporation",
-      "tcp_ping_ms": 168.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 2224.1
-      },
-      "real_latency_ms": 2224.1
-    },
-    {
-      "uri": "vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@188.253.125.236:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=chrome&type=ws&path=%2F&host=u.srilankangrill.online#SG",
-      "ip": "188.253.125.236",
-      "city": "Singapore",
-      "isp": "Akari Networks Limited",
-      "org": "",
-      "as": "AS38136 Akari Networks",
-      "tcp_ping_ms": 1521.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 5817.0
-      },
-      "real_latency_ms": 5817.0
-    },
-    {
-      "uri": "vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1+V2CROSS.COM",
-      "ip": "103.25.202.25",
-      "city": "Singapore",
-      "isp": "SimplerCloud Pte Ltd",
-      "org": "SimplerCloud Pte Ltd",
-      "as": "AS132816 SimplerCloud Pte Ltd",
-      "tcp_ping_ms": 168.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 6674.2
-      },
-      "real_latency_ms": 6674.2
+      "real_latency_ms": 854.2
     }
   ]
 }
