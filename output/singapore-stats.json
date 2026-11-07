@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1794034966,
-  "raw_unique": 3906,
-  "resolved": 3453,
+  "generated_at_utc": 1794059793,
+  "raw_unique": 3908,
+  "resolved": 3455,
   "geoip_singapore_after_cdn_filter": 36,
-  "tcp_alive": 33,
-  "real_xray_tested": 33,
+  "tcp_alive": 32,
+  "real_xray_tested": 32,
   "real_xray_alive": 4,
   "published": 4,
   "source_stats": {
@@ -12,26 +12,11 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 20,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayNGVPN",
-      "ip": "149.28.130.108",
-      "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 168.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 693.0
-      },
-      "real_latency_ms": 693.0
-    },
     {
       "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
       "ip": "139.180.146.200",
@@ -39,13 +24,28 @@
       "isp": "SGP VULTR",
       "org": "",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 169.5,
+      "tcp_ping_ms": 182.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 694.8
+        "latency_ms": 750.9
       },
-      "real_latency_ms": 694.8
+      "real_latency_ms": 750.9
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayNGVPN",
+      "ip": "149.28.130.108",
+      "city": "Singapore",
+      "isp": "The Constant Company",
+      "org": "Vultr Holdings, LLC",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 178.9,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 753.7
+      },
+      "real_latency_ms": 753.7
     },
     {
       "uri": "vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&encryption=none#%E6%97%A5%E6%9C%AC+V2CROSS.COM",
@@ -54,13 +54,13 @@
       "isp": "Shenzhen Tencent Computer Systems Company Limited",
       "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
       "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-      "tcp_ping_ms": 1205.4,
+      "tcp_ping_ms": 182.2,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2147.7
+        "latency_ms": 2667.5
       },
-      "real_latency_ms": 2147.7
+      "real_latency_ms": 2667.5
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
@@ -69,13 +69,13 @@
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 281.7,
+      "tcp_ping_ms": 296.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 3960.2
+        "latency_ms": 4809.2
       },
-      "real_latency_ms": 3960.2
+      "real_latency_ms": 4809.2
     }
   ]
 }
