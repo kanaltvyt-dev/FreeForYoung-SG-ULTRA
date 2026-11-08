@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1794156054,
-  "raw_unique": 3887,
-  "resolved": 3417,
-  "geoip_singapore_after_cdn_filter": 78,
-  "tcp_alive": 75,
-  "real_xray_tested": 75,
+  "generated_at_utc": 1794172093,
+  "raw_unique": 3864,
+  "resolved": 3374,
+  "geoip_singapore_after_cdn_filter": 80,
+  "tcp_alive": 78,
+  "real_xray_tested": 78,
   "real_xray_alive": 3,
   "published": 3,
   "source_stats": {
@@ -12,7 +12,7 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 32,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 18,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
@@ -24,13 +24,13 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 226.8,
+      "tcp_ping_ms": 183.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 918.5
+        "latency_ms": 745.5
       },
-      "real_latency_ms": 918.5
+      "real_latency_ms": 745.5
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
@@ -39,13 +39,13 @@
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 338.8,
+      "tcp_ping_ms": 253.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1632.2
+        "latency_ms": 4820.6
       },
-      "real_latency_ms": 1632.2
+      "real_latency_ms": 4820.6
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
@@ -54,13 +54,13 @@
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 338.8,
+      "tcp_ping_ms": 255.9,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2876.3
+        "latency_ms": 5139.7
       },
-      "real_latency_ms": 2876.3
+      "real_latency_ms": 5139.7
     }
   ]
 }
