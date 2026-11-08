@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1794091328,
-  "raw_unique": 3954,
-  "resolved": 3433,
-  "geoip_singapore_after_cdn_filter": 43,
-  "tcp_alive": 41,
-  "real_xray_tested": 41,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1794104616,
+  "raw_unique": 3967,
+  "resolved": 3444,
+  "geoip_singapore_after_cdn_filter": 53,
+  "tcp_alive": 46,
+  "real_xray_tested": 46,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 45,
@@ -24,13 +24,28 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 221.0,
+      "tcp_ping_ms": 179.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 898.4
+        "latency_ms": 723.2
       },
-      "real_latency_ms": 898.4
+      "real_latency_ms": 723.2
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
+      "ip": "15.235.184.127",
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 293.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 2066.1
+      },
+      "real_latency_ms": 2066.1
     }
   ]
 }
