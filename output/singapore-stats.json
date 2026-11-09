@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1794172093,
-  "raw_unique": 3864,
-  "resolved": 3374,
-  "geoip_singapore_after_cdn_filter": 80,
-  "tcp_alive": 78,
-  "real_xray_tested": 78,
-  "real_xray_alive": 3,
-  "published": 3,
+  "generated_at_utc": 1794185378,
+  "raw_unique": 3911,
+  "resolved": 3408,
+  "geoip_singapore_after_cdn_filter": 68,
+  "tcp_alive": 67,
+  "real_xray_tested": 67,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 32,
@@ -18,49 +18,19 @@
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
-      "ip": "149.28.130.108",
-      "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 183.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 745.5
-      },
-      "real_latency_ms": 745.5
-    },
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
-      "ip": "15.235.184.127",
-      "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 253.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 4820.6
-      },
-      "real_latency_ms": 4820.6
-    },
-    {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
       "ip": "15.235.184.127",
       "city": "Singapore",
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 255.9,
+      "tcp_ping_ms": 292.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 5139.7
+        "latency_ms": 3811.4
       },
-      "real_latency_ms": 5139.7
+      "real_latency_ms": 3811.4
     }
   ]
 }
