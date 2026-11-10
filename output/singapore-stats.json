@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": 1794249790,
-  "raw_unique": 3876,
-  "resolved": 3402,
-  "geoip_singapore_after_cdn_filter": 69,
-  "tcp_alive": 67,
-  "real_xray_tested": 67,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1794276053,
+  "raw_unique": 3904,
+  "resolved": 3421,
+  "geoip_singapore_after_cdn_filter": 53,
+  "tcp_alive": 51,
+  "real_xray_tested": 51,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
@@ -18,19 +18,34 @@
   },
   "servers": [
     {
-      "uri": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬",
-      "ip": "139.180.146.200",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
+      "ip": "15.235.184.127",
       "city": "Singapore",
-      "isp": "SGP VULTR",
-      "org": "",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 229.1,
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 290.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 909.6
+        "latency_ms": 4745.7
       },
-      "real_latency_ms": 909.6
+      "real_latency_ms": 4745.7
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG",
+      "ip": "15.235.184.127",
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 295.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 6380.2
+      },
+      "real_latency_ms": 6380.2
     }
   ]
 }
