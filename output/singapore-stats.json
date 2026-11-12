@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1794481025,
-  "raw_unique": 3916,
-  "resolved": 3443,
+  "generated_at_utc": 1794509548,
+  "raw_unique": 3914,
+  "resolved": 3476,
   "geoip_singapore_after_cdn_filter": 68,
-  "tcp_alive": 67,
-  "real_xray_tested": 67,
+  "tcp_alive": 65,
+  "real_xray_tested": 65,
   "real_xray_alive": 1,
   "published": 1,
   "source_stats": {
@@ -12,25 +12,25 @@
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 40,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 5,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&sni=exploredigitaljobplatformandfindonlinework.com#@VPsave",
-      "ip": "15.235.184.127",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
+      "ip": "149.28.130.108",
       "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 337.3,
+      "isp": "The Constant Company",
+      "org": "Vultr Holdings, LLC",
+      "as": "AS20473 The Constant Company, LLC",
+      "tcp_ping_ms": 238.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 5937.8
+        "latency_ms": 960.2
       },
-      "real_latency_ms": 5937.8
+      "real_latency_ms": 960.2
     }
   ]
 }
