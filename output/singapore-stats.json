@@ -1,51 +1,20 @@
 {
-  "generated_at_utc": 1794528869,
-  "raw_unique": 3869,
-  "resolved": 3334,
-  "geoip_singapore_after_cdn_filter": 90,
-  "tcp_alive": 88,
-  "real_xray_tested": 88,
-  "real_xray_alive": 10,
-  "published": 2,
+  "generated_at_utc": 1794556294,
+  "raw_unique": 3887,
+  "resolved": 3409,
+  "geoip_singapore_after_cdn_filter": 63,
+  "tcp_alive": 59,
+  "real_xray_tested": 59,
+  "real_xray_alive": 0,
+  "published": 0,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 40,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 6,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
-  "servers": [
-    {
-      "uri": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ul-singapore1.09vpn.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇸🇬213174",
-      "ip": "86.38.247.109",
-      "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "",
-      "as": "AS212238 Datacamp Limited",
-      "tcp_ping_ms": 165.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 663.5
-      },
-      "real_latency_ms": 663.5
-    },
-    {
-      "uri": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=ul-singapore1.09vpn.com#@tootffarangi🍓",
-      "ip": "86.38.247.109",
-      "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "",
-      "as": "AS212238 Datacamp Limited",
-      "tcp_ping_ms": 168.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 663.8
-      },
-      "real_latency_ms": 663.8
-    }
-  ]
+  "servers": []
 }
