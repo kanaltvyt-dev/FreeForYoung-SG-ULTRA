@@ -1,52 +1,22 @@
 {
-  "generated_at_utc": 1794586364,
-  "raw_unique": 3887,
-  "resolved": 3370,
-  "geoip_singapore_after_cdn_filter": 59,
-  "tcp_alive": 58,
-  "real_xray_tested": 58,
-  "real_xray_alive": 6,
-  "published": 4,
+  "generated_at_utc": 1794609223,
+  "raw_unique": 3920,
+  "resolved": 3423,
+  "geoip_singapore_after_cdn_filter": 66,
+  "tcp_alive": 59,
+  "real_xray_tested": 59,
+  "real_xray_alive": 2,
+  "published": 2,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 36,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ul-singapore1.09vpn.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Telegram",
-      "ip": "86.38.247.109",
-      "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "",
-      "as": "AS212238 Datacamp Limited",
-      "tcp_ping_ms": 223.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 915.2
-      },
-      "real_latency_ms": 915.2
-    },
-    {
-      "uri": "trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ul-singapore1.09vpn.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#@VPsave",
-      "ip": "86.38.247.109",
-      "city": "Singapore",
-      "isp": "Datacamp Limited",
-      "org": "",
-      "as": "AS212238 Datacamp Limited",
-      "tcp_ping_ms": 224.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 916.1
-      },
-      "real_latency_ms": 916.1
-    },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
       "ip": "149.28.130.108",
@@ -54,13 +24,13 @@
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 224.5,
+      "tcp_ping_ms": 164.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 960.0
+        "latency_ms": 922.0
       },
-      "real_latency_ms": 960.0
+      "real_latency_ms": 922.0
     },
     {
       "uri": "trojan://Z5lvhmLqSc@173.234.15.84:48994/?type=tcp&security=tls&sni=m.microsoft.com&allowInsecure=1#🇸🇬",
@@ -69,13 +39,13 @@
       "isp": "Leaseweb Singapore Pte. Ltd.",
       "org": "Leaseweb Asia Pacific Pte. Ltd.",
       "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 1287.8,
+      "tcp_ping_ms": 1273.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 5779.9
+        "latency_ms": 2989.7
       },
-      "real_latency_ms": 5779.9
+      "real_latency_ms": 2989.7
     }
   ]
 }
