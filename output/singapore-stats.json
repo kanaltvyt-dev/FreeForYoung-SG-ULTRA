@@ -1,37 +1,22 @@
 {
-  "generated_at_utc": 1794707421,
-  "raw_unique": 3871,
-  "resolved": 3375,
-  "geoip_singapore_after_cdn_filter": 66,
-  "tcp_alive": 64,
-  "real_xray_tested": 64,
-  "real_xray_alive": 2,
-  "published": 2,
+  "generated_at_utc": 1794734119,
+  "raw_unique": 3869,
+  "resolved": 3379,
+  "geoip_singapore_after_cdn_filter": 69,
+  "tcp_alive": 68,
+  "real_xray_tested": 68,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 28,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 25,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 19,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
   },
   "servers": [
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬",
-      "ip": "149.28.130.108",
-      "city": "Singapore",
-      "isp": "The Constant Company",
-      "org": "Vultr Holdings, LLC",
-      "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 161.0,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 664.0
-      },
-      "real_latency_ms": 664.0
-    },
     {
       "uri": "trojan://Z5lvhmLqSc@173.234.15.84:48994/?type=tcp&security=tls&sni=m.microsoft.com&allowInsecure=1#🇸🇬",
       "ip": "173.234.15.84",
@@ -39,13 +24,13 @@
       "isp": "Leaseweb Singapore Pte. Ltd.",
       "org": "Leaseweb Asia Pacific Pte. Ltd.",
       "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
-      "tcp_ping_ms": 231.9,
+      "tcp_ping_ms": 270.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 931.2
+        "latency_ms": 6555.1
       },
-      "real_latency_ms": 931.2
+      "real_latency_ms": 6555.1
     }
   ]
 }
