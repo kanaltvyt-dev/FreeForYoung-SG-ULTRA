@@ -1,51 +1,51 @@
 {
-  "generated_at_utc": 1794778975,
-  "raw_unique": 3892,
-  "resolved": 3394,
-  "geoip_singapore_after_cdn_filter": 66,
-  "tcp_alive": 63,
-  "real_xray_tested": 63,
-  "real_xray_alive": 3,
-  "published": 3,
+  "generated_at_utc": 1794794223,
+  "raw_unique": 3926,
+  "resolved": 3424,
+  "geoip_singapore_after_cdn_filter": 87,
+  "tcp_alive": 86,
+  "real_xray_tested": 86,
+  "real_xray_alive": 4,
+  "published": 4,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 25,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@tootffarangi🍓",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayNGVPN",
       "ip": "149.28.130.108",
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 226.4,
+      "tcp_ping_ms": 214.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 903.6
+        "latency_ms": 873.0
       },
-      "real_latency_ms": 903.6
+      "real_latency_ms": 873.0
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#ᴛᴇʟᴇɢʀᴀᴍ",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#Tel-@ProxyMtAlpha🍶",
       "ip": "149.28.130.108",
       "city": "Singapore",
       "isp": "The Constant Company",
       "org": "Vultr Holdings, LLC",
       "as": "AS20473 The Constant Company, LLC",
-      "tcp_ping_ms": 223.2,
+      "tcp_ping_ms": 213.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 910.8
+        "latency_ms": 874.1
       },
-      "real_latency_ms": 910.8
+      "real_latency_ms": 874.1
     },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
@@ -54,13 +54,28 @@
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 307.4,
+      "tcp_ping_ms": 242.0,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 1715.2
+        "latency_ms": 1148.5
       },
-      "real_latency_ms": 1715.2
+      "real_latency_ms": 1148.5
+    },
+    {
+      "uri": "trojan://Z5lvhmLqSc@173.234.15.84:48994/?type=tcp&security=tls&sni=m.microsoft.com&allowInsecure=1#🇸🇬",
+      "ip": "173.234.15.84",
+      "city": "Singapore",
+      "isp": "Leaseweb Singapore Pte. Ltd.",
+      "org": "Leaseweb Asia Pacific Pte. Ltd.",
+      "as": "AS59253 LEASEWEB SINGAPORE PTE. LTD.",
+      "tcp_ping_ms": 257.2,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1264.3
+      },
+      "real_latency_ms": 1264.3
     }
   ]
 }
