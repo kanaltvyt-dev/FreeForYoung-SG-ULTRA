@@ -1,51 +1,96 @@
 {
-  "generated_at_utc": 1795058202,
-  "raw_unique": 3860,
-  "resolved": 3353,
-  "geoip_singapore_after_cdn_filter": 79,
-  "tcp_alive": 73,
-  "real_xray_tested": 73,
-  "real_xray_alive": 7,
-  "published": 2,
+  "generated_at_utc": 1795092897,
+  "raw_unique": 3917,
+  "resolved": 3278,
+  "geoip_singapore_after_cdn_filter": 83,
+  "tcp_alive": 70,
+  "real_xray_tested": 70,
+  "real_xray_alive": 8,
+  "published": 5,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 23,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 27,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬218828",
-      "ip": "15.235.184.127",
+      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21003?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=f3602a3a1cf928b7&sni=www.cloudflare.com&type=tcp#SG",
+      "ip": "103.106.229.177",
       "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 201.8,
+      "isp": "BrainStorm Network, Inc",
+      "org": "Oneprovider.com",
+      "as": "AS136258 BrainStorm Network, Inc",
+      "tcp_ping_ms": 163.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 839.9
+        "latency_ms": 976.5
       },
-      "real_latency_ms": 839.9
+      "real_latency_ms": 976.5
     },
     {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com#[🇸🇬]t.me/ConfigsHub",
+      "uri": "vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.yandex.ru&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣",
+      "ip": "147.93.173.45",
+      "city": "Singapore",
+      "isp": "Contabo Asia Private Limited",
+      "org": "Contabo GmbH",
+      "as": "AS141995 Contabo Asia Private Limited",
+      "tcp_ping_ms": 160.6,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1113.8
+      },
+      "real_latency_ms": 1113.8
+    },
+    {
+      "uri": "vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.yandex.ru&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#🇸🇬",
+      "ip": "147.93.173.45",
+      "city": "Singapore",
+      "isp": "Contabo Asia Private Limited",
+      "org": "Contabo GmbH",
+      "as": "AS141995 Contabo Asia Private Limited",
+      "tcp_ping_ms": 165.1,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1133.2
+      },
+      "real_latency_ms": 1133.2
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬SG-🚀@VPNine1",
       "ip": "15.235.184.127",
       "city": "Singapore",
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 201.4,
+      "tcp_ping_ms": 279.3,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 887.6
+        "latency_ms": 1251.0
       },
-      "real_latency_ms": 887.6
+      "real_latency_ms": 1251.0
+    },
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬218779",
+      "ip": "15.235.184.127",
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 282.3,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1812.4
+      },
+      "real_latency_ms": 1812.4
     }
   ]
 }
