@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": 1795224361,
-  "raw_unique": 3874,
-  "resolved": 3306,
+  "generated_at_utc": 1795254001,
+  "raw_unique": 3867,
+  "resolved": 3299,
   "geoip_singapore_after_cdn_filter": 64,
   "tcp_alive": 54,
   "real_xray_tested": 54,
@@ -9,10 +9,10 @@
   "published": 0,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 35,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 28,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 11,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
