@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": 1795204937,
-  "raw_unique": 3924,
-  "resolved": 3327,
-  "geoip_singapore_after_cdn_filter": 70,
-  "tcp_alive": 63,
-  "real_xray_tested": 63,
+  "generated_at_utc": 1795224361,
+  "raw_unique": 3874,
+  "resolved": 3306,
+  "geoip_singapore_after_cdn_filter": 64,
+  "tcp_alive": 54,
+  "real_xray_tested": 54,
   "real_xray_alive": 0,
   "published": 0,
   "source_stats": {
