@@ -1,22 +1,37 @@
 {
-  "generated_at_utc": 1795468517,
-  "raw_unique": 3870,
-  "resolved": 3235,
-  "geoip_singapore_after_cdn_filter": 62,
-  "tcp_alive": 52,
-  "real_xray_tested": 52,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1795499848,
+  "raw_unique": 3859,
+  "resolved": 3241,
+  "geoip_singapore_after_cdn_filter": 66,
+  "tcp_alive": 60,
+  "real_xray_tested": 60,
+  "real_xray_alive": 6,
+  "published": 3,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 25,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 12,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
+    {
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
+      "ip": "15.235.184.127",
+      "city": "Singapore",
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 247.0,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 1241.0
+      },
+      "real_latency_ms": 1241.0
+    },
     {
       "uri": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&security=tls&sni=bgsg1.hikigo.com#%E8%8D%B7%E5%85%B0+V2CROSS.COM",
       "ip": "77.93.89.2",
@@ -24,13 +39,28 @@
       "isp": "Bage Cloud LLC",
       "org": "Bage Cloud LLC",
       "as": "AS63150 BAGE CLOUD LLC",
-      "tcp_ping_ms": 177.1,
+      "tcp_ping_ms": 229.6,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 730.9
+        "latency_ms": 8623.8
       },
-      "real_latency_ms": 730.9
+      "real_latency_ms": 8623.8
+    },
+    {
+      "uri": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com&type=tcp#%E8%8D%B7%E5%85%B0+V2CROSS.COM",
+      "ip": "77.93.89.2",
+      "city": "Singapore",
+      "isp": "Bage Cloud LLC",
+      "org": "Bage Cloud LLC",
+      "as": "AS63150 BAGE CLOUD LLC",
+      "tcp_ping_ms": 230.4,
+      "real_test": {
+        "ok": true,
+        "successful_requests": 2,
+        "latency_ms": 8980.4
+      },
+      "real_latency_ms": 8980.4
     }
   ]
 }
