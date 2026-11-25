@@ -1,141 +1,66 @@
 {
-  "generated_at_utc": 1795610608,
-  "raw_unique": 3924,
-  "resolved": 3381,
-  "geoip_singapore_after_cdn_filter": 128,
-  "tcp_alive": 120,
-  "real_xray_tested": 120,
-  "real_xray_alive": 21,
-  "published": 8,
+  "generated_at_utc": 1795645633,
+  "raw_unique": 3892,
+  "resolved": 3295,
+  "geoip_singapore_after_cdn_filter": 69,
+  "tcp_alive": 63,
+  "real_xray_tested": 63,
+  "real_xray_alive": 10,
+  "published": 3,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 22,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 7,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 9,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
-    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 99
+    "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
     {
-      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp#🇸🇬04",
+      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬03",
       "ip": "43.156.36.253",
       "city": "Singapore",
       "isp": "Shenzhen Tencent Computer Systems Company Limited",
       "org": "Tencent Cloud Computing",
       "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-      "tcp_ping_ms": 196.7,
+      "tcp_ping_ms": 222.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 803.2
+        "latency_ms": 900.1
       },
-      "real_latency_ms": 803.2
+      "real_latency_ms": 900.1
     },
     {
-      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?allowInsecure=1&fp=chrome&sni=tx-hy2#🆓67@oneclickvpnkeys",
+      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬02",
       "ip": "43.156.36.253",
       "city": "Singapore",
       "isp": "Shenzhen Tencent Computer Systems Company Limited",
       "org": "Tencent Cloud Computing",
       "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-      "tcp_ping_ms": 196.6,
+      "tcp_ping_ms": 223.7,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 804.9
+        "latency_ms": 900.5
       },
-      "real_latency_ms": 804.9
+      "real_latency_ms": 900.5
     },
     {
-      "uri": "vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#🇸🇬21@exclavevpn",
-      "ip": "47.84.226.221",
+      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
+      "ip": "15.235.184.127",
       "city": "Singapore",
-      "isp": "Alibaba.com LLC",
-      "org": "Delta Centric LLC, Zenlayer Inc",
-      "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-      "tcp_ping_ms": 195.6,
+      "isp": "OVH SAS",
+      "org": "OVH Singapore PTE. LTD",
+      "as": "AS16276 OVH SAS",
+      "tcp_ping_ms": 312.8,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 809.3
+        "latency_ms": 2934.2
       },
-      "real_latency_ms": 809.3
-    },
-    {
-      "uri": "vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#SG",
-      "ip": "47.84.226.221",
-      "city": "Singapore",
-      "isp": "Alibaba.com LLC",
-      "org": "Delta Centric LLC, Zenlayer Inc",
-      "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-      "tcp_ping_ms": 196.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 812.1
-      },
-      "real_latency_ms": 812.1
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21002?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=d9a6b52e98121db2&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 197.1,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1106.7
-      },
-      "real_latency_ms": 1106.7
-    },
-    {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?type=tcp&encryption=none&sni=www.cloudflare.com&security=reality&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&sid=ab39fc68ab3dee81#SG",
-      "ip": "103.106.229.37",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 196.5,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1109.4
-      },
-      "real_latency_ms": 1109.4
-    },
-    {
-      "uri": "vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=2df2bd9d8366cef1&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F",
-      "ip": "103.106.229.37",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 196.9,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1110.2
-      },
-      "real_latency_ms": 1110.2
-    },
-    {
-      "uri": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21001?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=a51c3ccb2320024a&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F",
-      "ip": "103.106.229.177",
-      "city": "Singapore",
-      "isp": "BrainStorm Network, Inc",
-      "org": "Oneprovider.com",
-      "as": "AS136258 BrainStorm Network, Inc",
-      "tcp_ping_ms": 197.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 1111.8
-      },
-      "real_latency_ms": 1111.8
+      "real_latency_ms": 2934.2
     }
   ]
 }

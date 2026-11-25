@@ -6,11 +6,6 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp#🇸🇬04
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?allowInsecure=1&fp=chrome&sni=tx-hy2#🆓67@oneclickvpnkeys
-vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#🇸🇬21@exclavevpn
-vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#SG
-vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21002?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=d9a6b52e98121db2&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?type=tcp&encryption=none&sni=www.cloudflare.com&security=reality&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&sid=ab39fc68ab3dee81#SG
-vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=2df2bd9d8366cef1&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21001?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=a51c3ccb2320024a&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬03
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬02
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬
