@@ -1,36 +1,20 @@
 {
-  "generated_at_utc": 1795669058,
-  "raw_unique": 3873,
-  "resolved": 3332,
-  "geoip_singapore_after_cdn_filter": 64,
-  "tcp_alive": 58,
-  "real_xray_tested": 58,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1795705353,
+  "raw_unique": 3849,
+  "resolved": 3226,
+  "geoip_singapore_after_cdn_filter": 69,
+  "tcp_alive": 62,
+  "real_xray_tested": 62,
+  "real_xray_alive": 0,
+  "published": 0,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
-    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 22,
+    "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 29,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
-  "servers": [
-    {
-      "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
-      "ip": "15.235.184.127",
-      "city": "Singapore",
-      "isp": "OVH SAS",
-      "org": "OVH Singapore PTE. LTD",
-      "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 310.4,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 5485.1
-      },
-      "real_latency_ms": 5485.1
-    }
-  ]
+  "servers": []
 }
