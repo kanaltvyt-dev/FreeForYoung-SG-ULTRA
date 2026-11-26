@@ -1,52 +1,22 @@
 {
-  "generated_at_utc": 1795645633,
-  "raw_unique": 3892,
-  "resolved": 3295,
-  "geoip_singapore_after_cdn_filter": 69,
-  "tcp_alive": 63,
-  "real_xray_tested": 63,
-  "real_xray_alive": 10,
-  "published": 3,
+  "generated_at_utc": 1795669058,
+  "raw_unique": 3873,
+  "resolved": 3332,
+  "geoip_singapore_after_cdn_filter": 64,
+  "tcp_alive": 58,
+  "real_xray_tested": 58,
+  "real_xray_alive": 1,
+  "published": 1,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 22,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 9,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 10,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
   "servers": [
-    {
-      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬03",
-      "ip": "43.156.36.253",
-      "city": "Singapore",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "org": "Tencent Cloud Computing",
-      "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-      "tcp_ping_ms": 222.7,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 900.1
-      },
-      "real_latency_ms": 900.1
-    },
-    {
-      "uri": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=43.156.36.253&allowInsecure=1&type=tcp#🇸🇬02",
-      "ip": "43.156.36.253",
-      "city": "Singapore",
-      "isp": "Shenzhen Tencent Computer Systems Company Limited",
-      "org": "Tencent Cloud Computing",
-      "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-      "tcp_ping_ms": 223.7,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 900.5
-      },
-      "real_latency_ms": 900.5
-    },
     {
       "uri": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬",
       "ip": "15.235.184.127",
@@ -54,13 +24,13 @@
       "isp": "OVH SAS",
       "org": "OVH Singapore PTE. LTD",
       "as": "AS16276 OVH SAS",
-      "tcp_ping_ms": 312.8,
+      "tcp_ping_ms": 310.4,
       "real_test": {
         "ok": true,
         "successful_requests": 2,
-        "latency_ms": 2934.2
+        "latency_ms": 5485.1
       },
-      "real_latency_ms": 2934.2
+      "real_latency_ms": 5485.1
     }
   ]
 }
