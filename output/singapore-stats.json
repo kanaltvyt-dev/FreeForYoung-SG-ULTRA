@@ -1,36 +1,20 @@
 {
-  "generated_at_utc": 1795767211,
-  "raw_unique": 3835,
-  "resolved": 3222,
-  "geoip_singapore_after_cdn_filter": 74,
-  "tcp_alive": 65,
-  "real_xray_tested": 65,
-  "real_xray_alive": 1,
-  "published": 1,
+  "generated_at_utc": 1795805565,
+  "raw_unique": 3843,
+  "resolved": 3189,
+  "geoip_singapore_after_cdn_filter": 72,
+  "tcp_alive": 53,
+  "real_xray_tested": 53,
+  "real_xray_alive": 0,
+  "published": 0,
   "source_stats": {
     "https://freenode.biz/api/featured?format=nsubscribe": 31,
     "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all": 25,
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt": 2000,
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt": "ERROR: HTTP Error 404: Not Found",
-    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 13,
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": 8,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt": 2000,
     "https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/light.txt": 100
   },
-  "servers": [
-    {
-      "uri": "vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?security=reality&type=tcp&packetEncoding=xudp&sni=v1-dy.ixigua.com&fp=edge&flow=xtls-rprx-vision&sid=ff2c978a0b&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2",
-      "ip": "18.143.179.166",
-      "city": "Singapore",
-      "isp": "Amazon.com, Inc.",
-      "org": "AWS EC2 (ap-southeast-1)",
-      "as": "AS16509 Amazon.com, Inc.",
-      "tcp_ping_ms": 207.3,
-      "real_test": {
-        "ok": true,
-        "successful_requests": 2,
-        "latency_ms": 961.7
-      },
-      "real_latency_ms": 961.7
-    }
-  ]
+  "servers": []
 }

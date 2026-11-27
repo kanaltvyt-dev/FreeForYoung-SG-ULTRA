@@ -6,4 +6,3 @@
 #ping-type: proxy
 #check-url-via-proxy: https://cp.cloudflare.com/generate_204
 #ping-result: time
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?security=reality&type=tcp&packetEncoding=xudp&sni=v1-dy.ixigua.com&fp=edge&flow=xtls-rprx-vision&sid=ff2c978a0b&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
